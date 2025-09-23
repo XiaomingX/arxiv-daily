@@ -1,0 +1,64 @@
+# 每周更新论文链接工作流
+name: Run Update Paper Links Weekly
+
+# 触发条件：手动触发 + 每周一UTC 8点运行（北京时间16点，可根据需求调整）
+on:
+  workflow_dispatch:  # 支持手动触发
+  schedule:
+    - cron: "0 8 * * 1"  # 保持原定时策略：每周一8点（UTC）运行
+
+env:
+  # 使用GitHub默认身份（无需手动填写用户名/邮箱，更安全）
+  GITHUB_USER_NAME: ${{ github.actor }}
+  GITHUB_EMAIL: ${{ github.actor }}@users.noreply.github.com
+
+
+jobs:
+  update-links:
+    name: Update Paper Links
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 显式声明推送代码的权限（关键）
+
+    steps:
+      # 1. 拉取代码（使用最新版checkout，拉取完整历史避免冲突）
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2. 设置Python环境（最新版+依赖缓存）
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"  # 保持原Python版本
+          cache: "pip"  # 缓存pip依赖，加速安装
+
+      # 3. 安装依赖（使用requirements.txt管理版本）
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # 需提前创建requirements.txt
+
+      # 4. 运行更新链接脚本（带--update_paper_links参数，符合逻辑）
+      - name: Update paper links
+        run: |
+          python daily_arxiv.py --update_paper_links
+
+      # 5. 提交更新（使用Git原生命令，替代第三方动作）
+      - name: Commit changes
+        run: |
+          # 检查是否有文件变更（无变更则不提交）
+          if [[ -n $(git status --porcelain) ]]; then
+            # 配置提交身份
+            git config --global user.name "${{ env.GITHUB_USER_NAME }}"
+            git config --global user.email "${{ env.GITHUB_EMAIL }}"
+            # 添加所有变更文件（与脚本输出一致）
+            git add README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
+            # 提交信息含日期，明确是每周更新（如“2024-09-23 每周一更新论文链接”）
+            git commit -m "Auto-update paper links: $(date +'%Y-%m-%d') [Weekly]"
+            # 推送变更
+            git push
+          else
+            echo "No changes to commit (no new links updated)"
+          fi

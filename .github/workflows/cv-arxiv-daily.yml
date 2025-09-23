@@ -1,0 +1,65 @@
+# 每日运行arXiv论文爬取工作流
+name: Run Arxiv Papers Daily
+
+# 触发条件：手动触发 + 每日UTC时间0点运行（北京时间8点）
+on:
+  workflow_dispatch:  # 支持手动触发
+  schedule:
+    - cron: "0 0 * * *"  # 每日UTC 0点（北京时间8点）运行，替换原每5天的配置
+
+env:
+  # 使用GitHub Actions默认身份，无需手动指定（若需自定义可保留）
+  GITHUB_USER_NAME: ${{ github.actor }}
+  GITHUB_EMAIL: ${{ github.actor }}@users.noreply.github.com
+
+
+jobs:
+  update-papers:
+    name: Update arXiv Papers
+    runs-on: ubuntu-latest  # 使用最新的Ubuntu镜像
+    permissions:
+      contents: write  # 授予提交代码的权限（关键）
+
+    steps:
+      # 1. 拉取代码（使用最新版checkout）
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 拉取完整历史，避免提交时冲突
+
+      # 2. 设置Python环境（使用最新版setup-python）
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"  # 保持原Python版本，若需升级可改为3.11+
+          cache: "pip"  # 缓存pip依赖，加速安装
+
+      # 3. 安装依赖（使用requirements.txt管理）
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # 需提前创建requirements.txt
+
+      # 4. 运行爬取脚本
+      - name: Run daily arXiv crawler
+        run: |
+          python daily_arxiv.py  # 执行爬取逻辑
+
+      # 5. 提交更新（使用git原生命令，替代第三方动作）
+      - name: Commit changes
+        run: |
+          # 检查是否有文件变更
+          git status
+          if [[ -n $(git status --porcelain) ]]; then
+            # 配置提交身份
+            git config --global user.name "${{ env.GITHUB_USER_NAME }}"
+            git config --global user.email "${{ env.GITHUB_EMAIL }}"
+            # 添加变更文件（确保与脚本输出一致）
+            git add README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
+            # 提交信息包含日期，便于追溯
+            git commit -m "Auto-update arXiv papers: $(date +'%Y-%m-%d')"
+            # 推送变更
+            git push
+          else
+            echo "No changes to commit"
+          fi
