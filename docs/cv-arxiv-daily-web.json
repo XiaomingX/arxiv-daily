@@ -1013,7 +1013,9 @@
     "2509.14636": "|**2025-09-18**|**BEV-ODOM2: Enhanced BEV-based Monocular Visual Odometry with PV-BEV Fusion and Dense Flow Supervision for Ground Robots**|Yufei Wei et.al.|[2509.14636](http://arxiv.org/abs/2509.14636)|null|\n",
     "2509.14516": "|**2025-09-18**|**Event-LAB: Towards Standardized Evaluation of Neuromorphic Localization Methods**|Adam D. Hines et.al.|[2509.14516](http://arxiv.org/abs/2509.14516)|null|\n",
     "2509.14191": "|**2025-09-17**|**MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping**|Zhihao Cao et.al.|[2509.14191](http://arxiv.org/abs/2509.14191)|null|\n",
-    "2509.13972": "|**2025-09-17**|**BIM Informed Visual SLAM for Construction Monitoring**|Asier Bikandi et.al.|[2509.13972](http://arxiv.org/abs/2509.13972)|null|\n"
+    "2509.13972": "|**2025-09-17**|**BIM Informed Visual SLAM for Construction Monitoring**|Asier Bikandi et.al.|[2509.13972](http://arxiv.org/abs/2509.13972)|null|\n",
+    "2509.18954": "|**2025-09-23**|**Towards Robust LiDAR Localization: Deep Learning-based Uncertainty Estimation**|Minoo Dolatabadi et.al.|[2509.18954](http://arxiv.org/abs/2509.18954)|null|\n",
+    "2509.18342": "|**2025-09-22**|**Semantic-Aware Particle Filter for Reliable Vineyard Robot Localisation**|Rajitha de Silva et.al.|[2509.18342](http://arxiv.org/abs/2509.18342)|null|\n"
   },
   "SFM": {
     "2110.07322": "|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322](http://arxiv.org/abs/2110.07322)|null|\n",
@@ -1461,7 +1463,8 @@
     "2509.11853": "|**2025-09-15**|**Segmentation-Driven Initialization for Sparse-view 3D Gaussian Splatting**|Yi-Hsin Li et.al.|[2509.11853](http://arxiv.org/abs/2509.11853)|null|\n",
     "2509.11829": "|**2025-09-15**|**WAFER: A new method to retrieve sun-induced fluorescence based on spectral wavelet decompositions**|Veronika Oehl et.al.|[2509.11829](http://arxiv.org/abs/2509.11829)|null|\n",
     "2509.11097": "|**2025-09-14**|**3DAeroRelief: The first 3D Benchmark UAV Dataset for Post-Disaster Assessment**|Nhut Le et.al.|[2509.11097](http://arxiv.org/abs/2509.11097)|null|\n",
-    "2509.09720": "|**2025-09-09**|**Australian Supermarket Object Set (ASOS): A Benchmark Dataset of Physical Objects and 3D Models for Robotics and Computer Vision**|Akansel Cosgun et.al.|[2509.09720](http://arxiv.org/abs/2509.09720)|null|\n"
+    "2509.09720": "|**2025-09-09**|**Australian Supermarket Object Set (ASOS): A Benchmark Dataset of Physical Objects and 3D Models for Robotics and Computer Vision**|Akansel Cosgun et.al.|[2509.09720](http://arxiv.org/abs/2509.09720)|null|\n",
+    "2509.18898": "|**2025-09-23**|**DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring**|Pengteng Li et.al.|[2509.18898](http://arxiv.org/abs/2509.18898)|null|\n"
   },
   "Visual Localization": {
     "2110.04162": "|**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162](http://arxiv.org/abs/2110.04162)|null|\n",
@@ -2685,7 +2688,9 @@
     "2509.14516": "|**2025-09-18**|**Event-LAB: Towards Standardized Evaluation of Neuromorphic Localization Methods**|Adam D. Hines et.al.|[2509.14516](http://arxiv.org/abs/2509.14516)|null|\n",
     "2509.14427": "|**2025-09-17**|**Hashing-Baseline: Rethinking Hashing in the Age of Pretrained Models**|Ilyass Moummad et.al.|[2509.14427](http://arxiv.org/abs/2509.14427)|null|\n",
     "2509.14104": "|**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|\n",
-    "2509.13474": "|**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|\n"
+    "2509.13474": "|**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|\n",
+    "2509.19203": "|**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|null|\n",
+    "2509.18350": "|**2025-09-22**|**OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata**|Oussema Dhaouadi et.al.|[2509.18350](http://arxiv.org/abs/2509.18350)|null|\n"
   },
   "Keypoint Detection": {
     "2110.05216": "|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216](http://arxiv.org/abs/2110.05216)|null|\n",
@@ -3361,14 +3366,14 @@
     "2506.23077": "|**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|\n",
     "2507.06744": "|**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|null|\n",
     "2507.03868": "|**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|\n",
-    "2509.17431": "|**2025-09-22**|**Emergent 3D Correspondence from Neural Shape Representation**|Keyu Du et.al.|[2509.17431](http://arxiv.org/abs/2509.17431)|null|\n",
+    "2509.17431": "|**2025-09-23**|**Hierarchical Neural Semantic Representation for 3D Semantic Correspondence**|Keyu Du et.al.|[2509.17431](http://arxiv.org/abs/2509.17431)|null|\n",
     "2509.16519": "|**2025-09-20**|**PM25Vision: A Large-Scale Benchmark Dataset for Visual Estimation of Air Quality**|Yang Han et.al.|[2509.16519](http://arxiv.org/abs/2509.16519)|null|\n",
     "2509.16017": "|**2025-09-19**|**DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching**|Meng Yang et.al.|[2509.16017](http://arxiv.org/abs/2509.16017)|null|\n",
     "2509.14966": "|**2025-09-18**|**RoboEye: Enhancing 2D Robotic Object Identification with Selective 3D Geometric Keypoint Matching**|Xingwu Zhang et.al.|[2509.14966](http://arxiv.org/abs/2509.14966)|null|\n",
     "2509.11255": "|**2025-09-14**|**A Geometrically Consistent Matching Framework for Side-Scan Sonar Mapping**|Can Lei et.al.|[2509.11255](http://arxiv.org/abs/2509.11255)|null|\n",
     "2509.09792": "|**2025-09-11**|**Fine-Grained Cross-View Localization via Local Feature Matching and Monocular Depth Priors**|Zimin Xia et.al.|[2509.09792](http://arxiv.org/abs/2509.09792)|null|\n",
     "2509.09594": "|**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|null|\n",
-    "2509.08805": "|**2025-09-10**|**Handling Multiple Hypotheses in Coarse-to-Fine Dense Image Matching**|Matthieu Vilain et.al.|[2509.08805](http://arxiv.org/abs/2509.08805)|null|\n",
+    "2509.08805": "|**2025-09-23**|**Handling Multiple Hypotheses in Coarse-to-Fine Dense Image Matching**|Matthieu Vilain et.al.|[2509.08805](http://arxiv.org/abs/2509.08805)|null|\n",
     "2509.06566": "|**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demi\u0107 et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|null|\n",
     "2509.04273": "|**2025-09-04**|**Dual-Scale Volume Priors with Wasserstein-Based Consistency for Semi-Supervised Medical Image Segmentation**|Junying Meng et.al.|[2509.04273](http://arxiv.org/abs/2509.04273)|null|\n"
   },
@@ -5027,13 +5032,15 @@
     "2507.11971": "|**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](http://arxiv.org/abs/2507.11971)|null|\n",
     "2509.17789": "|**2025-09-22**|**From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes**|Guoxi Huang et.al.|[2509.17789](http://arxiv.org/abs/2509.17789)|null|\n",
     "2509.17232": "|**2025-09-21**|**DT-NeRF: A Diffusion and Transformer-Based Optimization Approach for Neural Radiance Fields in 3D Reconstruction**|Bo Liu et.al.|[2509.17232](http://arxiv.org/abs/2509.17232)|null|\n",
-    "2509.17083": "|**2025-09-21**|**HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis**|Zipeng Wang et.al.|[2509.17083](http://arxiv.org/abs/2509.17083)|null|\n",
+    "2509.17083": "|**2025-09-23**|**HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis**|Zipeng Wang et.al.|[2509.17083](http://arxiv.org/abs/2509.17083)|null|\n",
     "2509.16922": "|**2025-09-21**|**PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control**|Tianheng Zhu et.al.|[2509.16922](http://arxiv.org/abs/2509.16922)|null|\n",
     "2509.15548": "|**2025-09-22**|**MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild**|Deming Li et.al.|[2509.15548](http://arxiv.org/abs/2509.15548)|null|\n",
     "2509.15123": "|**2025-09-19**|**RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes**|Fang Li et.al.|[2509.15123](http://arxiv.org/abs/2509.15123)|null|\n",
     "2509.14890": "|**2025-09-18**|**NeRF-based Visualization of 3D Cues Supporting Data-Driven Spacecraft Pose Estimation**|Antoine Legrand et.al.|[2509.14890](http://arxiv.org/abs/2509.14890)|null|\n",
     "2509.15242": "|**2025-09-17**|**ProFusion: 3D Reconstruction of Protein Complex Structures from Multi-view AFM Images**|Jaydeep Rade et.al.|[2509.15242](http://arxiv.org/abs/2509.15242)|null|\n",
     "2509.13571": "|**2025-09-16**|**SuNeRF-CME: Physics-Informed Neural Radiance Fields for Tomographic Reconstruction of Coronal Mass Ejections**|Robert Jarolim et.al.|[2509.13571](http://arxiv.org/abs/2509.13571)|null|\n",
-    "2509.12836": "|**2025-09-16**|**Exploring Metric Fusion for Evaluation of NeRFs**|Shreyas Shivakumara et.al.|[2509.12836](http://arxiv.org/abs/2509.12836)|null|\n"
+    "2509.12836": "|**2025-09-16**|**Exploring Metric Fusion for Evaluation of NeRFs**|Shreyas Shivakumara et.al.|[2509.12836](http://arxiv.org/abs/2509.12836)|null|\n",
+    "2509.19073": "|**2025-09-23**|**WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction**|Hung Nguyen et.al.|[2509.19073](http://arxiv.org/abs/2509.19073)|null|\n",
+    "2509.18956": "|**2025-09-23**|**Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting**|Zijing Guo et.al.|[2509.18956](http://arxiv.org/abs/2509.18956)|null|\n"
   }
 }
