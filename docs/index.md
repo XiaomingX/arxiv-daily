@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**Optical Ocean Recipes: Creating Realistic Datasets to Facilitate Underwater Vision Research**|Patricia Schöntag et.al.|[2509.20171](http://arxiv.org/abs/2509.20171)|null|
+|**2025-09-23**|**Bioinspired SLAM Approach for Unmanned Surface Vehicle**|Fabio Coelho et.al.|[2509.19522](http://arxiv.org/abs/2509.19522)|null|
+|**2025-09-23**|**CU-Multi: A Dataset for Multi-Robot Collaborative Perception**|Doncey Albin et.al.|[2509.19463](http://arxiv.org/abs/2509.19463)|null|
 |**2025-09-23**|**Towards Robust LiDAR Localization: Deep Learning-based Uncertainty Estimation**|Minoo Dolatabadi et.al.|[2509.18954](http://arxiv.org/abs/2509.18954)|null|
 |**2025-09-22**|**Semantic-Aware Particle Filter for Reliable Vineyard Robot Localisation**|Rajitha de Silva et.al.|[2509.18342](http://arxiv.org/abs/2509.18342)|null|
 |**2025-09-22**|**ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos**|Shi Chen et.al.|[2509.17864](http://arxiv.org/abs/2509.17864)|null|
@@ -1030,6 +1033,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**Aerial-Ground Image Feature Matching via 3D Gaussian Splatting-based Intermediate View Rendering**|Jiangxue Yu et.al.|[2509.19898](http://arxiv.org/abs/2509.19898)|null|
 |**2025-09-23**|**DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring**|Pengteng Li et.al.|[2509.18898](http://arxiv.org/abs/2509.18898)|null|
 |**2025-09-21**|**Reference-aware SFM layers for intrusive intelligibility prediction**|Hanlin Yu et.al.|[2509.17270](http://arxiv.org/abs/2509.17270)|null|
 |**2025-09-19**|**Investigating Polyglot Speech Foundation Models for Learning Collective Emotion from Crowds**|Orchid Chetia Phukan et.al.|[2509.16329](http://arxiv.org/abs/2509.16329)|null|
@@ -1482,6 +1486,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**A Versatile Foundation Model for AI-enabled Mammogram Interpretation**|Fuxiang Huang et.al.|[2509.20271](http://arxiv.org/abs/2509.20271)|null|
 |**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|null|
 |**2025-09-22**|**OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata**|Oussema Dhaouadi et.al.|[2509.18350](http://arxiv.org/abs/2509.18350)|null|
 |**2025-09-21**|**Learning Attribute-Aware Hash Codes for Fine-Grained Image Retrieval via Query Optimization**|Peng Wang et.al.|[2509.17049](http://arxiv.org/abs/2509.17049)|null|

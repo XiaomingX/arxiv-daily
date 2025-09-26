@@ -1015,7 +1015,10 @@
     "2509.14191": "|**2025-09-17**|**MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping**|Zhihao Cao et.al.|[2509.14191](http://arxiv.org/abs/2509.14191)|null|\n",
     "2509.13972": "|**2025-09-17**|**BIM Informed Visual SLAM for Construction Monitoring**|Asier Bikandi et.al.|[2509.13972](http://arxiv.org/abs/2509.13972)|null|\n",
     "2509.18954": "|**2025-09-23**|**Towards Robust LiDAR Localization: Deep Learning-based Uncertainty Estimation**|Minoo Dolatabadi et.al.|[2509.18954](http://arxiv.org/abs/2509.18954)|null|\n",
-    "2509.18342": "|**2025-09-22**|**Semantic-Aware Particle Filter for Reliable Vineyard Robot Localisation**|Rajitha de Silva et.al.|[2509.18342](http://arxiv.org/abs/2509.18342)|null|\n"
+    "2509.18342": "|**2025-09-22**|**Semantic-Aware Particle Filter for Reliable Vineyard Robot Localisation**|Rajitha de Silva et.al.|[2509.18342](http://arxiv.org/abs/2509.18342)|null|\n",
+    "2509.20171": "|**2025-09-24**|**Optical Ocean Recipes: Creating Realistic Datasets to Facilitate Underwater Vision Research**|Patricia Sch\u00f6ntag et.al.|[2509.20171](http://arxiv.org/abs/2509.20171)|null|\n",
+    "2509.19522": "|**2025-09-23**|**Bioinspired SLAM Approach for Unmanned Surface Vehicle**|Fabio Coelho et.al.|[2509.19522](http://arxiv.org/abs/2509.19522)|null|\n",
+    "2509.19463": "|**2025-09-23**|**CU-Multi: A Dataset for Multi-Robot Collaborative Perception**|Doncey Albin et.al.|[2509.19463](http://arxiv.org/abs/2509.19463)|null|\n"
   },
   "SFM": {
     "2110.07322": "|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322](http://arxiv.org/abs/2110.07322)|null|\n",
@@ -1464,7 +1467,8 @@
     "2509.11829": "|**2025-09-15**|**WAFER: A new method to retrieve sun-induced fluorescence based on spectral wavelet decompositions**|Veronika Oehl et.al.|[2509.11829](http://arxiv.org/abs/2509.11829)|null|\n",
     "2509.11097": "|**2025-09-14**|**3DAeroRelief: The first 3D Benchmark UAV Dataset for Post-Disaster Assessment**|Nhut Le et.al.|[2509.11097](http://arxiv.org/abs/2509.11097)|null|\n",
     "2509.09720": "|**2025-09-09**|**Australian Supermarket Object Set (ASOS): A Benchmark Dataset of Physical Objects and 3D Models for Robotics and Computer Vision**|Akansel Cosgun et.al.|[2509.09720](http://arxiv.org/abs/2509.09720)|null|\n",
-    "2509.18898": "|**2025-09-23**|**DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring**|Pengteng Li et.al.|[2509.18898](http://arxiv.org/abs/2509.18898)|null|\n"
+    "2509.18898": "|**2025-09-23**|**DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring**|Pengteng Li et.al.|[2509.18898](http://arxiv.org/abs/2509.18898)|null|\n",
+    "2509.19898": "|**2025-09-24**|**Aerial-Ground Image Feature Matching via 3D Gaussian Splatting-based Intermediate View Rendering**|Jiangxue Yu et.al.|[2509.19898](http://arxiv.org/abs/2509.19898)|null|\n"
   },
   "Visual Localization": {
     "2110.04162": "|**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162](http://arxiv.org/abs/2110.04162)|null|\n",
@@ -2690,7 +2694,8 @@
     "2509.14104": "|**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|\n",
     "2509.13474": "|**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|\n",
     "2509.19203": "|**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|null|\n",
-    "2509.18350": "|**2025-09-22**|**OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata**|Oussema Dhaouadi et.al.|[2509.18350](http://arxiv.org/abs/2509.18350)|null|\n"
+    "2509.18350": "|**2025-09-22**|**OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata**|Oussema Dhaouadi et.al.|[2509.18350](http://arxiv.org/abs/2509.18350)|null|\n",
+    "2509.20271": "|**2025-09-24**|**A Versatile Foundation Model for AI-enabled Mammogram Interpretation**|Fuxiang Huang et.al.|[2509.20271](http://arxiv.org/abs/2509.20271)|null|\n"
   },
   "Keypoint Detection": {
     "2110.05216": "|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216](http://arxiv.org/abs/2110.05216)|null|\n",
