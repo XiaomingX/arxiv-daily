@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.09.26
+## Updated on 2025.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation**|Konstantin Gubernatorov et.al.|[2509.21006](http://arxiv.org/abs/2509.21006)|null|
+|**2025-09-25**|**MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM**|Yuxuan Zhou et.al.|[2509.20757](http://arxiv.org/abs/2509.20757)|null|
+|**2025-09-25**|**SLAM-Free Visual Navigation with Hierarchical Vision-Language Perception and Coarse-to-Fine Semantic Topological Planning**|Guoyang Zhao et.al.|[2509.20739](http://arxiv.org/abs/2509.20739)|null|
 |**2025-09-24**|**Optical Ocean Recipes: Creating Realistic Datasets to Facilitate Underwater Vision Research**|Patricia Schöntag et.al.|[2509.20171](http://arxiv.org/abs/2509.20171)|null|
 |**2025-09-23**|**Bioinspired SLAM Approach for Unmanned Surface Vehicle**|Fabio Coelho et.al.|[2509.19522](http://arxiv.org/abs/2509.19522)|null|
 |**2025-09-23**|**CU-Multi: A Dataset for Multi-Robot Collaborative Perception**|Doncey Albin et.al.|[2509.19463](http://arxiv.org/abs/2509.19463)|null|
@@ -1486,6 +1489,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment**|Binod Singh et.al.|[2509.20401](http://arxiv.org/abs/2509.20401)|null|
 |**2025-09-24**|**A Versatile Foundation Model for AI-enabled Mammogram Interpretation**|Fuxiang Huang et.al.|[2509.20271](http://arxiv.org/abs/2509.20271)|null|
 |**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|null|
 |**2025-09-22**|**OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata**|Oussema Dhaouadi et.al.|[2509.18350](http://arxiv.org/abs/2509.18350)|null|
