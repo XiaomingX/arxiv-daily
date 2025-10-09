@@ -1041,7 +1041,10 @@
     "2510.00783": "|**2025-10-01**|**Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions**|Thanh Nguyen Canh et.al.|[2510.00783](http://arxiv.org/abs/2510.00783)|null|\n",
     "2510.02616": "|**2025-10-02**|**RSV-SLAM: Toward Real-Time Semantic Visual SLAM in Indoor Dynamic Environments**|Mobin Habibpour et.al.|[2510.02616](http://arxiv.org/abs/2510.02616)|null|\n",
     "2510.04612": "|**2025-10-06**|**OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS**|Simon Boche et.al.|[2510.04612](http://arxiv.org/abs/2510.04612)|null|\n",
-    "2510.03348": "|**2025-10-02**|**Visual Odometry with Transformers**|Vlardimir Yugay et.al.|[2510.03348](http://arxiv.org/abs/2510.03348)|null|\n"
+    "2510.03348": "|**2025-10-02**|**Visual Odometry with Transformers**|Vlardimir Yugay et.al.|[2510.03348](http://arxiv.org/abs/2510.03348)|null|\n",
+    "2510.06219": "|**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|\n",
+    "2510.06216": "|**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](http://arxiv.org/abs/2510.06216)|null|\n",
+    "2510.05992": "|**2025-10-07**|**Coordinate-Consistent Localization via Continuous-Time Calibration and Fusion of UWB and SLAM Observations**|Tien-Dat Nguyen et.al.|[2510.05992](http://arxiv.org/abs/2510.05992)|null|\n"
   },
   "SFM": {
     "2110.07322": "|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322](http://arxiv.org/abs/2110.07322)|null|\n",
@@ -1496,7 +1499,8 @@
     "2509.23991": "|**2025-09-28**|**RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization**|Dongki Jung et.al.|[2509.23991](http://arxiv.org/abs/2509.23991)|null|\n",
     "2509.23947": "|**2025-09-28**|**CrashSplat: 2D to 3D Vehicle Damage Segmentation in Gaussian Splatting**|Drago\u015f-Andrei Chileban et.al.|[2509.23947](http://arxiv.org/abs/2509.23947)|null|\n",
     "2509.25191": "|**2025-09-29**|**VGGT-X: When VGGT Meets Dense Novel View Synthesis**|Yang Liu et.al.|[2509.25191](http://arxiv.org/abs/2509.25191)|null|\n",
-    "2510.01665": "|**2025-10-02**|**Non-Rigid Structure-from-Motion via Differential Geometry with Recoverable Conformal Scale**|Yongbo Chen et.al.|[2510.01665](http://arxiv.org/abs/2510.01665)|null|\n"
+    "2510.01665": "|**2025-10-02**|**Non-Rigid Structure-from-Motion via Differential Geometry with Recoverable Conformal Scale**|Yongbo Chen et.al.|[2510.01665](http://arxiv.org/abs/2510.01665)|null|\n",
+    "2510.05388": "|**2025-10-06**|**The Prevalence of Bursty Star Formation in Low-Mass Galaxies at z=1-7 from H\u03b1-to-UV Diagnostics**|Marissa N. Perry et.al.|[2510.05388](http://arxiv.org/abs/2510.05388)|null|\n"
   },
   "Visual Localization": {
     "2110.04162": "|**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162](http://arxiv.org/abs/2110.04162)|null|\n",
@@ -2739,7 +2743,9 @@
     "2510.02874": "|**2025-10-03**|**Novel UWB Synthetic Aperture Radar Imaging for Mobile Robot Mapping**|Charith Premachandra et.al.|[2510.02874](http://arxiv.org/abs/2510.02874)|null|\n",
     "2510.02728": "|**2025-10-03**|**Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4**|Lingfeng Zhang et.al.|[2510.02728](http://arxiv.org/abs/2510.02728)|null|\n",
     "2510.04282": "|**2025-10-05**|**Flexible and Efficient Spatio-Temporal Transformer for Sequential Visual Place Recognition**|Yu Kiu et.al.|[2510.04282](http://arxiv.org/abs/2510.04282)|null|\n",
-    "2510.03751": "|**2025-10-04**|**The Overlooked Value of Test-time Reference Sets in Visual Place Recognition**|Mubariz Zaffar et.al.|[2510.03751](http://arxiv.org/abs/2510.03751)|null|\n"
+    "2510.03751": "|**2025-10-04**|**The Overlooked Value of Test-time Reference Sets in Visual Place Recognition**|Mubariz Zaffar et.al.|[2510.03751](http://arxiv.org/abs/2510.03751)|null|\n",
+    "2510.05586": "|**2025-10-07**|**CalibCLIP: Contextual Calibration of Dominant Semantics for Text-Driven Image Retrieval**|Bin Kang et.al.|[2510.05586](http://arxiv.org/abs/2510.05586)|null|\n",
+    "2510.05411": "|**2025-10-06**|**Personalizing Retrieval using Joint Embeddings or \"the Return of Fluffy\"**|Bruno Korbar et.al.|[2510.05411](http://arxiv.org/abs/2510.05411)|null|\n"
   },
   "Keypoint Detection": {
     "2110.05216": "|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216](http://arxiv.org/abs/2110.05216)|null|\n",
