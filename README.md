@@ -1,4 +1,4 @@
-## Updated on 2025.10.10
+## Updated on 2025.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-08**|**RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction**|Leshu Li et.al.|[2510.06644](http://arxiv.org/abs/2510.06644)|null|
+|**2025-10-09**|**ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation**|Guanghao Li et.al.|[2510.08551](http://arxiv.org/abs/2510.08551)|null|
+|**2025-10-09**|**RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction**|Leshu Li et.al.|[2510.06644](http://arxiv.org/abs/2510.06644)|null|
 |**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](http://arxiv.org/abs/2510.06219)|null|
 |**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](http://arxiv.org/abs/2510.06216)|null|
 |**2025-10-07**|**Coordinate-Consistent Localization via Continuous-Time Calibration and Fusion of UWB and SLAM Observations**|Tien-Dat Nguyen et.al.|[2510.05992](http://arxiv.org/abs/2510.05992)|null|
@@ -1064,7 +1065,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
 
 ## SFM
 
@@ -1526,12 +1527,15 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**DarkHash: A Data-Free Backdoor Attack Against Deep Hashing**|Ziqi Zhou et.al.|[2510.08094](http://arxiv.org/abs/2510.08094)|null|
+|**2025-10-09**|**CIR-CoT: Towards Interpretable Composed Image Retrieval via End-to-End Chain-of-Thought Reasoning**|Weihuang Lin et.al.|[2510.08003](http://arxiv.org/abs/2510.08003)|null|
+|**2025-10-09**|**Mutual Learning for Hashing: Unlocking Strong Hash Functions from Weak Supervision**|Xiaoxu Ma et.al.|[2510.07703](http://arxiv.org/abs/2510.07703)|null|
 |**2025-10-08**|**Multi-hop Deep Joint Source-Channel Coding with Deep Hash Distillation for Semantically Aligned Image Retrieval**|Didrik Bergström et.al.|[2510.06868](http://arxiv.org/abs/2510.06868)|null|
 |**2025-10-07**|**CalibCLIP: Contextual Calibration of Dominant Semantics for Text-Driven Image Retrieval**|Bin Kang et.al.|[2510.05586](http://arxiv.org/abs/2510.05586)|null|
 |**2025-10-06**|**Personalizing Retrieval using Joint Embeddings or "the Return of Fluffy"**|Bruno Korbar et.al.|[2510.05411](http://arxiv.org/abs/2510.05411)|null|
@@ -2777,7 +2781,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -3113,7 +3117,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3478,12 +3482,13 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**An Energy-Efficient Edge Coprocessor for Neural Rendering with Explicit Data Reuse Strategies**|Binzhe Yuan et.al.|[2510.07667](http://arxiv.org/abs/2510.07667)|null|
 |**2025-10-03**|**ROGR: Relightable 3D Objects using Generative Relighting**|Jiapeng Tang et.al.|[2510.03163](http://arxiv.org/abs/2510.03163)|null|
 |**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke et.al.|[2510.02314](http://arxiv.org/abs/2510.02314)|null|
 |**2025-10-01**|**Multi-level Dynamic Style Transfer for NeRFs**|Zesheng Li et.al.|[2510.00592](http://arxiv.org/abs/2510.00592)|null|
@@ -5157,7 +5162,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
