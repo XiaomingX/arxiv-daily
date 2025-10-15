@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.14
+## Updated on 2025.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3472,6 +3472,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency**|Yuxin Cheng et.al.|[2510.10993](http://arxiv.org/abs/2510.10993)|null|
+|**2025-10-11**|**Opacity-Gradient Driven Density Control for Compact and Efficient Few-Shot 3D Gaussian Splatting**|Abdelrhman Elrawy et.al.|[2510.10257](http://arxiv.org/abs/2510.10257)|null|
+|**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
+|**2025-10-10**|**Geometry-Aware Scene Configurations for Novel View Synthesis**|Minkwan Kim et.al.|[2510.09880](http://arxiv.org/abs/2510.09880)|null|
 |**2025-10-10**|**Vision Language Models: A Survey of 26K Papers**|Fengming Lin et.al.|[2510.09586](http://arxiv.org/abs/2510.09586)|null|
 |**2025-10-10**|**HERO: Hardware-Efficient RL-based Optimization Framework for NeRF Quantization**|Yipu Zhang et.al.|[2510.09010](http://arxiv.org/abs/2510.09010)|null|
 |**2025-10-09**|**An Energy-Efficient Edge Coprocessor for Neural Rendering with Explicit Data Reuse Strategies**|Binzhe Yuan et.al.|[2510.07667](http://arxiv.org/abs/2510.07667)|null|
