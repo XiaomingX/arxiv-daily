@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**Dynamic Recalibration in LiDAR SLAM: Integrating AI and Geometric Methods with Real-Time Feedback Using INAF Fusion**|Zahra Arjmandi et.al.|[2510.15803](http://arxiv.org/abs/2510.15803)|null|
+|**2025-10-17**|**LVI-Q: Robust LiDAR-Visual-Inertial-Kinematic Odometry for Quadruped Robots Using Tightly-Coupled and Efficient Alternating Optimization**|Kevin Christiansen Marsim et.al.|[2510.15220](http://arxiv.org/abs/2510.15220)|null|
 |**2025-10-16**|**3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation**|JoungBin Lee et.al.|[2510.14945](http://arxiv.org/abs/2510.14945)|null|
 |**2025-10-15**|**Accelerated Feature Detectors for Visual SLAM: A Comparative Study of FPGA vs GPU**|Ruiqi Ye et.al.|[2510.13546](http://arxiv.org/abs/2510.13546)|null|
 |**2025-10-15**|**Through the Lens of Doubt: Robust and Efficient Uncertainty Estimation for Visual Place Recognition**|Emily Miller et.al.|[2510.13464](http://arxiv.org/abs/2510.13464)|null|
@@ -1067,6 +1069,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes**|Lingfeng Xuan et.al.|[2510.15467](http://arxiv.org/abs/2510.15467)|null|
+|**2025-10-17**|**CuSfM: CUDA-Accelerated Structure-from-Motion**|Jingrui Yu et.al.|[2510.15271](http://arxiv.org/abs/2510.15271)|null|
 |**2025-10-15**|**Learning Neural Parametric 3D Breast Shape Models for Metrical Surface Reconstruction From Monocular RGB Videos**|Maximilian Weiherer et.al.|[2510.13540](http://arxiv.org/abs/2510.13540)|null|
 |**2025-10-15**|**InstantSfM: Fully Sparse and Parallel Structure-from-Motion**|Jiankun Zhong et.al.|[2510.13310](http://arxiv.org/abs/2510.13310)|null|
 |**2025-10-15**|**Edit-Your-Interest: Efficient Video Editing via Feature Most-Similar Propagation**|Yi Zuo et.al.|[2510.13084](http://arxiv.org/abs/2510.13084)|null|
