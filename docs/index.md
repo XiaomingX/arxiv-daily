@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-20**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
+|**2025-10-21**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
 |**2025-10-18**|**LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching**|Aidyn Ubingazhibov et.al.|[2510.16438](http://arxiv.org/abs/2510.16438)|null|
 |**2025-10-17**|**VAR-SLAM: Visual Adaptive and Robust SLAM for Dynamic Environments**|João Carlos Virgolino Soares et.al.|[2510.16205](http://arxiv.org/abs/2510.16205)|null|
 |**2025-10-17**|**Dynamic Recalibration in LiDAR SLAM: Integrating AI and Geometric Methods with Real-Time Feedback Using INAF Fusion**|Zahra Arjmandi et.al.|[2510.15803](http://arxiv.org/abs/2510.15803)|null|
@@ -1073,8 +1073,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-20**|**Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS**|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|null|
-|**2025-10-20**|**Leveraging AV1 motion vectors for Fast and Dense Feature Matching**|Julien Zouein et.al.|[2510.17434](http://arxiv.org/abs/2510.17434)|null|
-|**2025-10-20**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
+|**2025-10-21**|**Leveraging AV1 motion vectors for Fast and Dense Feature Matching**|Julien Zouein et.al.|[2510.17434](http://arxiv.org/abs/2510.17434)|null|
+|**2025-10-21**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
 |**2025-10-18**|**LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching**|Aidyn Ubingazhibov et.al.|[2510.16438](http://arxiv.org/abs/2510.16438)|null|
 |**2025-10-17**|**MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes**|Lingfeng Xuan et.al.|[2510.15467](http://arxiv.org/abs/2510.15467)|null|
 |**2025-10-17**|**CuSfM: CUDA-Accelerated Structure-from-Motion**|Jingrui Yu et.al.|[2510.15271](http://arxiv.org/abs/2510.15271)|null|
@@ -1543,6 +1543,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection**|Ji Du et.al.|[2510.18437](http://arxiv.org/abs/2510.18437)|null|
+|**2025-10-21**|**ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization**|Yuanhe Guo et.al.|[2510.18433](http://arxiv.org/abs/2510.18433)|null|
+|**2025-10-21**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|
 |**2025-10-20**|**Joint Multi-Condition Representation Modelling via Matrix Factorisation for Visual Place Recognition**|Timur Ismagilov et.al.|[2510.17739](http://arxiv.org/abs/2510.17739)|null|
 |**2025-10-16**|**Acquisition of interpretable domain information during brain MR image harmonization for content-based image retrieval**|Keima Abe et.al.|[2510.14535](http://arxiv.org/abs/2510.14535)|null|
 |**2025-10-15**|**Through the Lens of Doubt: Robust and Efficient Uncertainty Estimation for Visual Place Recognition**|Emily Miller et.al.|[2510.13464](http://arxiv.org/abs/2510.13464)|null|
@@ -2800,7 +2803,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-20**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
+|**2025-10-21**|**GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization**|Dušan Malić et.al.|[2510.18539](http://arxiv.org/abs/2510.18539)|null|
+|**2025-10-21**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
 |**2025-09-30**|**Enhancing Certifiable Semantic Robustness via Robust Pruning of Deep Neural Networks**|Hanjiang Hu et.al.|[2510.00083](http://arxiv.org/abs/2510.00083)|null|
 |**2025-09-26**|**PANICL: Mitigating Over-Reliance on Single Prompt in Visual In-Context Learning**|Jiahao Zhang et.al.|[2509.21926](http://arxiv.org/abs/2509.21926)|null|
 |**2025-09-15**|**Bridging the Gap Between Sparsity and Redundancy: A Dual-Decoding Framework with Global Context for Map Inference**|Yudong Shen et.al.|[2509.11731](http://arxiv.org/abs/2509.11731)|null|
