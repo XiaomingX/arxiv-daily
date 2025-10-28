@@ -1059,7 +1059,8 @@
     "2510.16438": "|**2025-10-18**|**LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching**|Aidyn Ubingazhibov et.al.|[2510.16438](http://arxiv.org/abs/2510.16438)|null|\n",
     "2510.16205": "|**2025-10-17**|**VAR-SLAM: Visual Adaptive and Robust SLAM for Dynamic Environments**|Jo\u00e3o Carlos Virgolino Soares et.al.|[2510.16205](http://arxiv.org/abs/2510.16205)|null|\n",
     "2510.18991": "|**2025-10-21**|**Underwater Dense Mapping with the First Compact 3D Sonar**|Chinmay Burgul et.al.|[2510.18991](http://arxiv.org/abs/2510.18991)|null|\n",
-    "2510.20549": "|**2025-10-23**|**Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation**|Marziyeh Bamdad et.al.|[2510.20549](http://arxiv.org/abs/2510.20549)|null|\n"
+    "2510.20549": "|**2025-10-23**|**Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation**|Marziyeh Bamdad et.al.|[2510.20549](http://arxiv.org/abs/2510.20549)|null|\n",
+    "2510.21215": "|**2025-10-24**|**Underwater Visual-Inertial-Acoustic-Depth SLAM with DVL Preintegration for Degraded Environments**|Shuoshuo Ding et.al.|[2510.21215](http://arxiv.org/abs/2510.21215)|null|\n"
   },
   "SFM": {
     "2110.07322": "|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322](http://arxiv.org/abs/2110.07322)|null|\n",
@@ -2788,7 +2789,7 @@
     "2510.18433": "|**2025-10-21**|**ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization**|Yuanhe Guo et.al.|[2510.18433](http://arxiv.org/abs/2510.18433)|null|\n",
     "2510.18218": "|**2025-10-21**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|\n",
     "2510.18890": "|**2025-10-18**|**Small Language Models Offer Significant Potential for Science Community**|Jian Zhang et.al.|[2510.18890](http://arxiv.org/abs/2510.18890)|null|\n",
-    "2510.20095": "|**2025-10-23**|**BIOCAP: Exploiting Synthetic Captions Beyond Labels in Biological Foundation Models**|Ziheng Zhang et.al.|[2510.20095](http://arxiv.org/abs/2510.20095)|null|\n"
+    "2510.20095": "|**2025-10-24**|**BioCAP: Exploiting Synthetic Captions Beyond Labels in Biological Foundation Models**|Ziheng Zhang et.al.|[2510.20095](http://arxiv.org/abs/2510.20095)|null|\n"
   },
   "Keypoint Detection": {
     "2110.05216": "|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216](http://arxiv.org/abs/2110.05216)|null|\n",
@@ -3478,7 +3479,7 @@
     "2509.08805": "|**2025-09-23**|**Handling Multiple Hypotheses in Coarse-to-Fine Dense Image Matching**|Matthieu Vilain et.al.|[2509.08805](http://arxiv.org/abs/2509.08805)|null|\n",
     "2509.06566": "|**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demi\u0107 et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|null|\n",
     "2509.04273": "|**2025-09-04**|**Dual-Scale Volume Priors with Wasserstein-Based Consistency for Semi-Supervised Medical Image Segmentation**|Junying Meng et.al.|[2509.04273](http://arxiv.org/abs/2509.04273)|null|\n",
-    "2510.05051": "|**2025-10-06**|**SegMASt3R: Geometry Grounded Segment Matching**|Rohit Jayanti et.al.|[2510.05051](http://arxiv.org/abs/2510.05051)|null|\n",
+    "2510.05051": "|**2025-10-24**|**SegMASt3R: Geometry Grounded Segment Matching**|Rohit Jayanti et.al.|[2510.05051](http://arxiv.org/abs/2510.05051)|null|\n",
     "2510.06829": "|**2025-10-08**|**Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera**|Mikihiro Ikura et.al.|[2510.06829](http://arxiv.org/abs/2510.06829)|null|\n",
     "2510.06827": "|**2025-10-08**|**StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance**|Jaeseok Jeong et.al.|[2510.06827](http://arxiv.org/abs/2510.06827)|null|\n",
     "2510.06820": "|**2025-10-08**|**Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking**|Mitchell Keren Taraday et.al.|[2510.06820](http://arxiv.org/abs/2510.06820)|null|\n"
