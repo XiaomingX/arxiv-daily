@@ -1060,7 +1060,13 @@
     "2510.16205": "|**2025-10-17**|**VAR-SLAM: Visual Adaptive and Robust SLAM for Dynamic Environments**|Jo\u00e3o Carlos Virgolino Soares et.al.|[2510.16205](http://arxiv.org/abs/2510.16205)|null|\n",
     "2510.18991": "|**2025-10-21**|**Underwater Dense Mapping with the First Compact 3D Sonar**|Chinmay Burgul et.al.|[2510.18991](http://arxiv.org/abs/2510.18991)|null|\n",
     "2510.20549": "|**2025-10-23**|**Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation**|Marziyeh Bamdad et.al.|[2510.20549](http://arxiv.org/abs/2510.20549)|null|\n",
-    "2510.21215": "|**2025-10-24**|**Underwater Visual-Inertial-Acoustic-Depth SLAM with DVL Preintegration for Degraded Environments**|Shuoshuo Ding et.al.|[2510.21215](http://arxiv.org/abs/2510.21215)|null|\n"
+    "2510.21215": "|**2025-10-24**|**Underwater Visual-Inertial-Acoustic-Depth SLAM with DVL Preintegration for Degraded Environments**|Shuoshuo Ding et.al.|[2510.21215](http://arxiv.org/abs/2510.21215)|null|\n",
+    "2510.22754": "|**2025-10-26**|**TWC-SLAM: Multi-Agent Cooperative SLAM with Text Semantics and WiFi Features Integration for Similar Indoor Environments**|Chunyu Li et.al.|[2510.22754](http://arxiv.org/abs/2510.22754)|null|\n",
+    "2510.22740": "|**2025-10-26**|**Policies over Poses: Reinforcement Learning based Distributed Pose-Graph Optimization for Multi-Robot SLAM**|Sai Krishna Ghanta et.al.|[2510.22740](http://arxiv.org/abs/2510.22740)|null|\n",
+    "2510.22669": "|**2025-10-26**|**LVD-GS: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering**|Wenkai Zhu et.al.|[2510.22669](http://arxiv.org/abs/2510.22669)|null|\n",
+    "2510.22600": "|**2025-10-26**|**RoGER-SLAM: A Robust Gaussian Splatting SLAM System for Noisy and Low-light Environment Resilience**|Huilin Yin et.al.|[2510.22600](http://arxiv.org/abs/2510.22600)|null|\n",
+    "2510.22588": "|**2025-10-26**|**UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models**|Wenming Tu et.al.|[2510.22588](http://arxiv.org/abs/2510.22588)|null|\n",
+    "2510.22529": "|**2025-10-26**|**Bag-of-Word-Groups (BoWG): A Robust and Efficient Loop Closure Detection Method Under Perceptual Aliasing**|Xiang Fei et.al.|[2510.22529](http://arxiv.org/abs/2510.22529)|null|\n"
   },
   "SFM": {
     "2110.07322": "|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322](http://arxiv.org/abs/2110.07322)|null|\n",
@@ -1530,7 +1536,8 @@
     "2510.17422": "|**2025-10-21**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|\n",
     "2510.16438": "|**2025-10-18**|**LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching**|Aidyn Ubingazhibov et.al.|[2510.16438](http://arxiv.org/abs/2510.16438)|null|\n",
     "2510.19044": "|**2025-10-21**|**The slope and scatter of the star forming main sequence at z~5 : reconciling observations with simulations**|Claudia Di Cesare et.al.|[2510.19044](http://arxiv.org/abs/2510.19044)|null|\n",
-    "2510.20529": "|**2025-10-23**|**RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping**|Constantine Frost et.al.|[2510.20529](http://arxiv.org/abs/2510.20529)|null|\n"
+    "2510.20529": "|**2025-10-23**|**RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping**|Constantine Frost et.al.|[2510.20529](http://arxiv.org/abs/2510.20529)|null|\n",
+    "2510.22961": "|**2025-10-27**|**Adapting Speech Foundation Models with Large Language Models for Unified Speech Recognition**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|\n"
   },
   "Visual Localization": {
     "2110.04162": "|**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162](http://arxiv.org/abs/2110.04162)|null|\n",
@@ -2789,7 +2796,13 @@
     "2510.18433": "|**2025-10-21**|**ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization**|Yuanhe Guo et.al.|[2510.18433](http://arxiv.org/abs/2510.18433)|null|\n",
     "2510.18218": "|**2025-10-21**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|\n",
     "2510.18890": "|**2025-10-18**|**Small Language Models Offer Significant Potential for Science Community**|Jian Zhang et.al.|[2510.18890](http://arxiv.org/abs/2510.18890)|null|\n",
-    "2510.20095": "|**2025-10-24**|**BioCAP: Exploiting Synthetic Captions Beyond Labels in Biological Foundation Models**|Ziheng Zhang et.al.|[2510.20095](http://arxiv.org/abs/2510.20095)|null|\n"
+    "2510.20095": "|**2025-10-24**|**BioCAP: Exploiting Synthetic Captions Beyond Labels in Biological Foundation Models**|Ziheng Zhang et.al.|[2510.20095](http://arxiv.org/abs/2510.20095)|null|\n",
+    "2510.23224": "|**2025-10-27**|**Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment**|Hongyi Wang et.al.|[2510.23224](http://arxiv.org/abs/2510.23224)|null|\n",
+    "2510.22868": "|**2025-10-26**|**Seeing the Unseen: Towards Zero-Shot Inspection for Wind Turbine Blades using Knowledge-Augmented Vision Language Models**|Yang Zhang et.al.|[2510.22868](http://arxiv.org/abs/2510.22868)|null|\n",
+    "2510.22754": "|**2025-10-26**|**TWC-SLAM: Multi-Agent Cooperative SLAM with Text Semantics and WiFi Features Integration for Similar Indoor Environments**|Chunyu Li et.al.|[2510.22754](http://arxiv.org/abs/2510.22754)|null|\n",
+    "2510.22736": "|**2025-10-26**|**Cross-view Localization and Synthesis -- Datasets, Challenges and Opportunities**|Ningli Xu et.al.|[2510.22736](http://arxiv.org/abs/2510.22736)|null|\n",
+    "2510.22571": "|**2025-10-26**|**STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models**|Mahiro Ukai et.al.|[2510.22571](http://arxiv.org/abs/2510.22571)|null|\n",
+    "2510.22529": "|**2025-10-26**|**Bag-of-Word-Groups (BoWG): A Robust and Efficient Loop Closure Detection Method Under Perceptual Aliasing**|Xiang Fei et.al.|[2510.22529](http://arxiv.org/abs/2510.22529)|null|\n"
   },
   "Keypoint Detection": {
     "2110.05216": "|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216](http://arxiv.org/abs/2110.05216)|null|\n",
@@ -3122,7 +3135,9 @@
     "2509.21926": "|**2025-09-26**|**PANICL: Mitigating Over-Reliance on Single Prompt in Visual In-Context Learning**|Jiahao Zhang et.al.|[2509.21926](http://arxiv.org/abs/2509.21926)|null|\n",
     "2510.00083": "|**2025-09-30**|**Enhancing Certifiable Semantic Robustness via Robust Pruning of Deep Neural Networks**|Hanjiang Hu et.al.|[2510.00083](http://arxiv.org/abs/2510.00083)|null|\n",
     "2510.17422": "|**2025-10-21**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|\n",
-    "2510.18539": "|**2025-10-21**|**GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization**|Du\u0161an Mali\u0107 et.al.|[2510.18539](http://arxiv.org/abs/2510.18539)|null|\n"
+    "2510.18539": "|**2025-10-21**|**GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization**|Du\u0161an Mali\u0107 et.al.|[2510.18539](http://arxiv.org/abs/2510.18539)|null|\n",
+    "2510.22618": "|**2025-10-26**|**Cross-Species Transfer Learning in Agricultural AI: Evaluating ZebraPose Adaptation for Dairy Cattle Pose Estimation**|Mackenzie Tapp et.al.|[2510.22618](http://arxiv.org/abs/2510.22618)|null|\n",
+    "2510.22454": "|**2025-10-25**|**SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning**|Linhan Wang et.al.|[2510.22454](http://arxiv.org/abs/2510.22454)|null|\n"
   },
   "Image Matching": {
     "2110.00480": "|**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin K\u00f6ser et.al.|[2110.00480](http://arxiv.org/abs/2110.00480)|null|\n",
@@ -3482,7 +3497,9 @@
     "2510.05051": "|**2025-10-24**|**SegMASt3R: Geometry Grounded Segment Matching**|Rohit Jayanti et.al.|[2510.05051](http://arxiv.org/abs/2510.05051)|null|\n",
     "2510.06829": "|**2025-10-08**|**Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera**|Mikihiro Ikura et.al.|[2510.06829](http://arxiv.org/abs/2510.06829)|null|\n",
     "2510.06827": "|**2025-10-08**|**StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance**|Jaeseok Jeong et.al.|[2510.06827](http://arxiv.org/abs/2510.06827)|null|\n",
-    "2510.06820": "|**2025-10-08**|**Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking**|Mitchell Keren Taraday et.al.|[2510.06820](http://arxiv.org/abs/2510.06820)|null|\n"
+    "2510.06820": "|**2025-10-08**|**Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking**|Mitchell Keren Taraday et.al.|[2510.06820](http://arxiv.org/abs/2510.06820)|null|\n",
+    "2510.22900": "|**2025-10-27**|**The MDW H\u03b1 Sky Survey: Data Release 1**|Noor Aftab et.al.|[2510.22900](http://arxiv.org/abs/2510.22900)|null|\n",
+    "2510.22827": "|**2025-10-26**|**FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment**|Zahraa Al Sahili et.al.|[2510.22827](http://arxiv.org/abs/2510.22827)|null|\n"
   },
   "NeRF": {
     "2208.05963": "|**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963](http://arxiv.org/abs/2208.05963)|null|\n",
@@ -5162,13 +5179,14 @@
     "2510.09010": "|**2025-10-10**|**HERO: Hardware-Efficient RL-based Optimization Framework for NeRF Quantization**|Yipu Zhang et.al.|[2510.09010](http://arxiv.org/abs/2510.09010)|null|\n",
     "2510.10993": "|**2025-10-13**|**Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency**|Yuxin Cheng et.al.|[2510.10993](http://arxiv.org/abs/2510.10993)|null|\n",
     "2510.10257": "|**2025-10-11**|**Opacity-Gradient Driven Density Control for Compact and Efficient Few-Shot 3D Gaussian Splatting**|Abdelrhman Elrawy et.al.|[2510.10257](http://arxiv.org/abs/2510.10257)|null|\n",
-    "2510.10097": "|**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|\n",
+    "2510.10097": "|**2025-10-27**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|\n",
     "2510.09880": "|**2025-10-10**|**Geometry-Aware Scene Configurations for Novel View Synthesis**|Minkwan Kim et.al.|[2510.09880](http://arxiv.org/abs/2510.09880)|null|\n",
     "2510.12901": "|**2025-10-16**|**SimULi: Real-Time LiDAR and Camera Simulation with Unscented Transforms**|Haithem Turki et.al.|[2510.12901](http://arxiv.org/abs/2510.12901)|null|\n",
     "2510.14270": "|**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde et.al.|[2510.14270](http://arxiv.org/abs/2510.14270)|null|\n",
     "2510.19371": "|**2025-10-22**|**AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields**|Woo Jae Kim et.al.|[2510.19371](http://arxiv.org/abs/2510.19371)|null|\n",
     "2510.19255": "|**2025-10-22**|**Advances in 4D Representation: Geometry, Motion, and Interaction**|Mingrui Zhao et.al.|[2510.19255](http://arxiv.org/abs/2510.19255)|null|\n",
     "2510.20558": "|**2025-10-23**|**From Far and Near: Perceptual Evaluation of Crowd Representations Across Levels of Detail**|Xiaohan Sun et.al.|[2510.20558](http://arxiv.org/abs/2510.20558)|null|\n",
-    "2510.20027": "|**2025-10-22**|**Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses**|Damian Bowness et.al.|[2510.20027](http://arxiv.org/abs/2510.20027)|null|\n"
+    "2510.20027": "|**2025-10-22**|**Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses**|Damian Bowness et.al.|[2510.20027](http://arxiv.org/abs/2510.20027)|null|\n",
+    "2510.22161": "|**2025-10-25**|**I2-NeRF: Learning Neural Radiance Fields Under Physically-Grounded Media Interactions**|Shuhong Liu et.al.|[2510.22161](http://arxiv.org/abs/2510.22161)|null|\n"
   }
 }
