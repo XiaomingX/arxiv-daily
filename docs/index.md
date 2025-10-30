@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Spatiotemporal Calibration of Doppler Velocity Logs for Underwater Robots**|Hongxu Zhao et.al.|[2510.24571](http://arxiv.org/abs/2510.24571)|null|
+|**2025-10-28**|**GeVI-SLAM: Gravity-Enhanced Stereo Visua Inertial SLAM for Underwater Robots**|Yuan Shen et.al.|[2510.24533](http://arxiv.org/abs/2510.24533)|null|
+|**2025-10-28**|**A Survey on Collaborative SLAM with 3D Gaussian Splatting**|Phuc Nguyen Xuan et.al.|[2510.23988](http://arxiv.org/abs/2510.23988)|null|
 |**2025-10-26**|**TWC-SLAM: Multi-Agent Cooperative SLAM with Text Semantics and WiFi Features Integration for Similar Indoor Environments**|Chunyu Li et.al.|[2510.22754](http://arxiv.org/abs/2510.22754)|null|
 |**2025-10-26**|**Policies over Poses: Reinforcement Learning based Distributed Pose-Graph Optimization for Multi-Robot SLAM**|Sai Krishna Ghanta et.al.|[2510.22740](http://arxiv.org/abs/2510.22740)|null|
 |**2025-10-26**|**LVD-GS: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering**|Wenkai Zhu et.al.|[2510.22669](http://arxiv.org/abs/2510.22669)|null|
