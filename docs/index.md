@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.11.17
+## Updated on 2025.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-12**|**DualVision ArthroNav: Investigating Opportunities to Enhance Localization and Reconstruction in Image-based Arthroscopy Navigation via External Cameras**|Hongchao Shu et.al.|[2511.10699](http://arxiv.org/abs/2511.10699)|null|
 |**2025-11-12**|**Generation-Agnostic Zero-Energy Devices for Sustainable Connectivity, Sensing, and Localization**|Navid Amani et.al.|[2511.09372](http://arxiv.org/abs/2511.09372)|null|
 |**2025-11-12**|**UMIGen: A Unified Framework for Egocentric Point Cloud Generation and Cross-Embodiment Robotic Imitation Learning**|Yan Huang et.al.|[2511.09302](http://arxiv.org/abs/2511.09302)|null|
 |**2025-11-12**|**SMF-VO: Direct Ego-Motion Estimation via Sparse Motion Fields**|Sangheon Yang et.al.|[2511.09072](http://arxiv.org/abs/2511.09072)|null|
@@ -1111,6 +1112,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**Free3D: 3D Human Motion Emerges from Single-View 2D Supervision**|Sheng Liu et.al.|[2511.11368](http://arxiv.org/abs/2511.11368)|null|
+|**2025-11-14**|**YCB-Ev SD: Synthetic event-vision dataset for 6DoF object pose estimation**|Pavel Rojtberg et.al.|[2511.11344](http://arxiv.org/abs/2511.11344)|null|
+|**2025-11-14**|**The Spatial Evolution of Star Clusters in NGC 628 with JWST**|Anne S. M. Buckner et.al.|[2511.11115](http://arxiv.org/abs/2511.11115)|null|
+|**2025-11-14**|**Discovery of an X-ray bridge between the comma-shaped gas and the main cluster in MCXC J0157.4-0550**|Chong Yang et.al.|[2511.10968](http://arxiv.org/abs/2511.10968)|null|
+|**2025-11-14**|**DEFT-LLM: Disentangled Expert Feature Tuning for Micro-Expression Recognition**|Ren Zhang et.al.|[2511.10948](http://arxiv.org/abs/2511.10948)|null|
+|**2025-11-14**|**A High-Precision Dynamical Model of Callisto: Incorporating Rotation Effects within Multi-Layer Internal Structure Models**|Kai Huang et.al.|[2511.10929](http://arxiv.org/abs/2511.10929)|null|
+|**2025-11-14**|**Collaborative Multi-Robot Non-Prehensile Manipulation via Flow-Matching Co-Generation**|Yorai Shaoul et.al.|[2511.10874](http://arxiv.org/abs/2511.10874)|null|
+|**2025-11-13**|**A validated lumped-element model for bioinspired acoustic flow sensing toward the performance limit**|Wei Sun et.al.|[2511.10830](http://arxiv.org/abs/2511.10830)|null|
+|**2025-11-13**|**From Attention to Frequency: Integration of Vision Transformer and FFT-ReLU for Enhanced Image Deblurring**|Syed Mumtahin Mahmud et.al.|[2511.10806](http://arxiv.org/abs/2511.10806)|null|
+|**2025-11-13**|**Towards Attribution of Generators and Emotional Manipulation in Cross-Lingual Synthetic Speech using Geometric Learning**|Girish et.al.|[2511.10790](http://arxiv.org/abs/2511.10790)|null|
 |**2025-11-13**|**From Fold to Function: Dynamic Modeling and Simulation-Driven Design of Origami Mechanisms**|Tianhui Han et.al.|[2511.10580](http://arxiv.org/abs/2511.10580)|null|
 |**2025-11-13**|**M3Scope a 3D multimode multiplane microscope for imaging nanoscale dynamics in soft matter**|Steven Huysecom et.al.|[2511.10174](http://arxiv.org/abs/2511.10174)|null|
 |**2025-11-13**|**Physics-informed Machine Learning for Static Friction Modeling in Robotic Manipulators Based on Kolmogorov-Arnold Networks**|Yizheng Wang et.al.|[2511.10079](http://arxiv.org/abs/2511.10079)|null|
@@ -1604,6 +1615,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding**|Dawei Zhu et.al.|[2511.11552](http://arxiv.org/abs/2511.11552)|null|
+|**2025-11-14**|**STEM EBIC as a Quantitative Probe of Semiconductor Devices**|Sebastian Schneider et.al.|[2511.11528](http://arxiv.org/abs/2511.11528)|null|
+|**2025-11-14**|**Bridging Hidden States in Vision-Language Models**|Benjamin Fein-Ashley et.al.|[2511.11526](http://arxiv.org/abs/2511.11526)|null|
+|**2025-11-14**|**Comprehension of Multilingual Expressions Referring to Target Objects in Visual Inputs**|Francisco Nogueira et.al.|[2511.11427](http://arxiv.org/abs/2511.11427)|null|
+|**2025-11-14**|**Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment**|Lukun Wu et.al.|[2511.11422](http://arxiv.org/abs/2511.11422)|null|
+|**2025-11-14**|**Bidimensional measurements of photon statistics within a multimodal temporal framework**|C. Hainaut et.al.|[2511.11403](http://arxiv.org/abs/2511.11403)|null|
+|**2025-11-14**|**GRANITE: High-Resolution Imaging and Electrical Qualification of Large-Area TPC Electrodes**|Shumit A. Mitra et.al.|[2511.11401](http://arxiv.org/abs/2511.11401)|null|
+|**2025-11-14**|**StochEP: Stochastic Equilibrium Propagation for Spiking Convergent Recurrent Neural Networks**|Jiaqi Lin et.al.|[2511.11320](http://arxiv.org/abs/2511.11320)|null|
+|**2025-11-14**|**DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding**|Tanveer Hannan et.al.|[2511.11313](http://arxiv.org/abs/2511.11313)|null|
+|**2025-11-14**|**MOON Embedding: Multimodal Representation Learning for E-commerce Search Advertising**|Chenghan Fu et.al.|[2511.11305](http://arxiv.org/abs/2511.11305)|null|
 |**2025-11-13**|**Mined Prompting and Metadata-Guided Generation for Wound Care Visual Question Answering**|Bavana Durgapraveen et.al.|[2511.10591](http://arxiv.org/abs/2511.10591)|null|
 |**2025-11-13**|**SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation**|Wei Li et.al.|[2511.10518](http://arxiv.org/abs/2511.10518)|null|
 |**2025-11-13**|**Domain Adaptation for Camera-Specific Image Characteristics using Shallow Discriminators**|Maximiliane Gruber et.al.|[2511.10424](http://arxiv.org/abs/2511.10424)|null|
@@ -2900,6 +2921,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**Interpretable descriptors enable prediction of hydrogen-based superconductors at moderate pressures**|Jiawei Chen et.al.|[2511.11284](http://arxiv.org/abs/2511.11284)|null|
 |**2025-11-12**|**A thermoinformational framework for the description of neuropsychological systems**|George-Rafael Domenikos et.al.|[2511.09506](http://arxiv.org/abs/2511.09506)|null|
 |**2025-11-12**|**Hydrogen permeability prediction in palladium alloys and virtual screening of B2-phase stabilized Pd(100-x-y)CuxMy ternary alloys using machine learning**|Eric Kolor et.al.|[2511.09245](http://arxiv.org/abs/2511.09245)|null|
 |**2025-11-11**|**Enhancing Rotation-Invariant 3D Learning with Global Pose Awareness and Attention Mechanisms**|Jiaxun Guo et.al.|[2511.08833](http://arxiv.org/abs/2511.08833)|null|
@@ -3256,6 +3278,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**Bridging Hidden States in Vision-Language Models**|Benjamin Fein-Ashley et.al.|[2511.11526](http://arxiv.org/abs/2511.11526)|null|
+|**2025-11-14**|**CVChess: A Deep Learning Framework for Converting Chessboard Images to Forsyth-Edwards Notation**|Luthira Abeykoon et.al.|[2511.11522](http://arxiv.org/abs/2511.11522)|null|
+|**2025-11-14**|**Hi-DREAM: Brain Inspired Hierarchical Diffusion for fMRI Reconstruction via ROI Encoder and visuAl Mapping**|Guowei Zhang et.al.|[2511.11437](http://arxiv.org/abs/2511.11437)|null|
+|**2025-11-14**|**The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models**|Maria-Teresa De Rosa Palmini et.al.|[2511.11435](http://arxiv.org/abs/2511.11435)|null|
+|**2025-11-14**|**Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment**|Lukun Wu et.al.|[2511.11422](http://arxiv.org/abs/2511.11422)|null|
+|**2025-11-14**|**Robust inverse material design with physical guarantees using the Voigt-Reuss Net**|Sanath Keshav et.al.|[2511.11388](http://arxiv.org/abs/2511.11388)|null|
+|**2025-11-14**|**Arcee: Differentiable Recurrent State Chain for Generative Vision Modeling with Mamba SSMs**|Jitesh Chavan et.al.|[2511.11243](http://arxiv.org/abs/2511.11243)|null|
+|**2025-11-14**|**Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing**|Cong Cao et.al.|[2511.11236](http://arxiv.org/abs/2511.11236)|null|
+|**2025-11-14**|**Evaluating Latent Generative Paradigms for High-Fidelity 3D Shape Completion from a Single Depth Image**|Matthias Humt et.al.|[2511.11074](http://arxiv.org/abs/2511.11074)|null|
+|**2025-11-14**|**Hyperbolic Hierarchical Alignment Reasoning Network for Text-3D Retrieval**|Wenrui Li et.al.|[2511.11045](http://arxiv.org/abs/2511.11045)|null|
 |**2025-11-13**|**One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models**|Aleksandr Razin et.al.|[2511.10629](http://arxiv.org/abs/2511.10629)|null|
 |**2025-11-13**|**From 2D to 3D Without Extra Baggage: Data-Efficient Cancer Detection in Digital Breast Tomosynthesis**|Yen Nhi Truong Vu et.al.|[2511.10597](http://arxiv.org/abs/2511.10597)|null|
 |**2025-11-13**|**Revealing the Connection Between the Filamentary Hierarchy and Star Cluster Formation in a Simulated NGC 628 Galaxy**|Tamara Koletic et.al.|[2511.10486](http://arxiv.org/abs/2511.10486)|null|
