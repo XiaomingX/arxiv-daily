@@ -1114,7 +1114,15 @@
     "2511.16048": "|**2025-11-20**|**Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud**|Qing Zhang et.al.|[2511.16048](http://arxiv.org/abs/2511.16048)|null|\n",
     "2511.17384": "|**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yifan Li et.al.|[2511.17384](http://arxiv.org/abs/2511.17384)|null|\n",
     "2511.17299": "|**2025-11-21**|**MonoSpheres: Large-Scale Monocular SLAM-Based UAV Exploration through Perception-Coupled Mapping and Planning**|Tom\u00e1\u0161 Musil et.al.|[2511.17299](http://arxiv.org/abs/2511.17299)|null|\n",
-    "2511.17207": "|**2025-11-21**|**SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors**|Kunyi Li et.al.|[2511.17207](http://arxiv.org/abs/2511.17207)|null|\n"
+    "2511.17207": "|**2025-11-21**|**SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors**|Kunyi Li et.al.|[2511.17207](http://arxiv.org/abs/2511.17207)|null|\n",
+    "2511.19031": "|**2025-11-24**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Haihang Wu et.al.|[2511.19031](http://arxiv.org/abs/2511.19031)|null|\n",
+    "2511.18857": "|**2025-11-24**|**AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion**|Changsheng Luo et.al.|[2511.18857](http://arxiv.org/abs/2511.18857)|null|\n",
+    "2511.18756": "|**2025-11-24**|**SP-VINS: A Hybrid Stereo Visual Inertial Navigation System based on Implicit Environmental Map**|Xueyu Du et.al.|[2511.18756](http://arxiv.org/abs/2511.18756)|null|\n",
+    "2511.18755": "|**2025-11-24**|**Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing**|Xiaotong Huang et.al.|[2511.18755](http://arxiv.org/abs/2511.18755)|null|\n",
+    "2511.18694": "|**2025-11-24**|**Stable Multi-Drone GNSS Tracking System for Marine Robots**|Shuo Wen et.al.|[2511.18694](http://arxiv.org/abs/2511.18694)|null|\n",
+    "2511.18470": "|**2025-11-23**|**Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span**|Heeseung Yun et.al.|[2511.18470](http://arxiv.org/abs/2511.18470)|null|\n",
+    "2511.17992": "|**2025-11-22**|**Unobservable Subspace Evolution and Alignment for Consistent Visual-Inertial Navigation**|Chungeng Tian et.al.|[2511.17992](http://arxiv.org/abs/2511.17992)|null|\n",
+    "2511.17792": "|**2025-11-21**|**Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?**|Dingrui Wang et.al.|[2511.17792](http://arxiv.org/abs/2511.17792)|null|\n"
   },
   "SFM": {
     "2110.07322": "|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322](http://arxiv.org/abs/2110.07322)|null|\n",
@@ -1641,7 +1649,17 @@
     "2511.16484": "|**2025-11-20**|**Flow and Depth Assisted Video Prediction with Latent Transformer**|Eliyas Suleyman et.al.|[2511.16484](http://arxiv.org/abs/2511.16484)|null|\n",
     "2511.16159": "|**2025-11-20**|**Two Epochs of VLBI Observations of 8 KISSR Seyfert & LINER Galaxies: Suggestions of Fast and Filamentary Outflows**|Preeti Kharb et.al.|[2511.16159](http://arxiv.org/abs/2511.16159)|null|\n",
     "2511.16978": "|**2025-11-21**|**TRAO Survey of the Nearby Filamentary Molecular Clouds, the Universal Nursery of Stars (TRAO-FUNS). IV. Filaments and Dense Cores in the W40 and Serpens South Regions of Aquila**|Satyajeet Moharana et.al.|[2511.16978](http://arxiv.org/abs/2511.16978)|null|\n",
-    "2511.16966": "|**2025-11-21**|**One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements**|Yiheng Bian et.al.|[2511.16966](http://arxiv.org/abs/2511.16966)|null|\n"
+    "2511.16966": "|**2025-11-21**|**One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements**|Yiheng Bian et.al.|[2511.16966](http://arxiv.org/abs/2511.16966)|null|\n",
+    "2511.19275": "|**2025-11-24**|**Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization**|Ellie L. Zhang et.al.|[2511.19275](http://arxiv.org/abs/2511.19275)|null|\n",
+    "2511.19185": "|**2025-11-24**|**A Deep-Learning-Based Framework for Focal Mechanism Determination and Its Application to the 2022 Luding Earthquake Sequence**|Ziye Yu et.al.|[2511.19185](http://arxiv.org/abs/2511.19185)|null|\n",
+    "2511.19172": "|**2025-11-24**|**MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes**|Kehua Chen et.al.|[2511.19172](http://arxiv.org/abs/2511.19172)|null|\n",
+    "2511.18975": "|**2025-11-24**|**The variability of blazars throughout the electromagnetic spectrum**|Claudia M. Raiteri et.al.|[2511.18975](http://arxiv.org/abs/2511.18975)|null|\n",
+    "2511.18886": "|**2025-11-24**|**MagicWorld: Interactive Geometry-driven Video World Exploration**|Guangyuan Li et.al.|[2511.18886](http://arxiv.org/abs/2511.18886)|null|\n",
+    "2511.18786": "|**2025-11-24**|**STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution**|Junyang Chen et.al.|[2511.18786](http://arxiv.org/abs/2511.18786)|null|\n",
+    "2511.18745": "|**2025-11-24**|**On the role of fractional Brownian motion in models of chemotaxis and stochastic gradient ascent**|Gustavo Cornejo-Olea et.al.|[2511.18745](http://arxiv.org/abs/2511.18745)|null|\n",
+    "2511.18559": "|**2025-11-23**|**C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction**|Kuan Wei Huang et.al.|[2511.18559](http://arxiv.org/abs/2511.18559)|null|\n",
+    "2511.18549": "|**2025-11-23**|**Non-Symplectic Deformations of Geometric Quantisation**|Kerr Maxwell et.al.|[2511.18549](http://arxiv.org/abs/2511.18549)|null|\n",
+    "2511.18537": "|**2025-11-23**|**Zero-Shot Video Deraining with Video Diffusion Models**|Tuomas Varanka et.al.|[2511.18537](http://arxiv.org/abs/2511.18537)|null|\n"
   },
   "Visual Localization": {
     "2110.04162": "|**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162](http://arxiv.org/abs/2110.04162)|null|\n",
@@ -2994,7 +3012,17 @@
     "2511.17255": "|**2025-11-21**|**A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback**|Bulat Khaertdinov et.al.|[2511.17255](http://arxiv.org/abs/2511.17255)|null|\n",
     "2511.17246": "|**2025-11-21**|**Mixed Reality Scenic Live Streaming for Cultural Heritage: Visual Interactions in a Historic Landscape**|Zeyu Huang et.al.|[2511.17246](http://arxiv.org/abs/2511.17246)|null|\n",
     "2511.17207": "|**2025-11-21**|**SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors**|Kunyi Li et.al.|[2511.17207](http://arxiv.org/abs/2511.17207)|null|\n",
-    "2511.17183": "|**2025-11-21**|**Navigating in the Dark: A Multimodal Framework and Dataset for Nighttime Traffic Sign Recognition**|Aditya Mishra et.al.|[2511.17183](http://arxiv.org/abs/2511.17183)|null|\n"
+    "2511.17183": "|**2025-11-21**|**Navigating in the Dark: A Multimodal Framework and Dataset for Nighttime Traffic Sign Recognition**|Aditya Mishra et.al.|[2511.17183](http://arxiv.org/abs/2511.17183)|null|\n",
+    "2511.19400": "|**2025-11-24**|**Wigner and Gabor phase-space analysis of propagators for evolution equations**|Elena Cordero et.al.|[2511.19400](http://arxiv.org/abs/2511.19400)|null|\n",
+    "2511.19396": "|**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Jorge Ortigoso-Narro et.al.|[2511.19396](http://arxiv.org/abs/2511.19396)|null|\n",
+    "2511.19226": "|**2025-11-24**|**In-vivo imaging with a low-cost MRI scanner and cloud data processing in low-resource settings**|Teresa Guallart-Naval et.al.|[2511.19226](http://arxiv.org/abs/2511.19226)|null|\n",
+    "2511.19200": "|**2025-11-24**|**Can Modern Vision Models Understand the Difference Between an Object and a Look-alike?**|Itay Cohen et.al.|[2511.19200](http://arxiv.org/abs/2511.19200)|null|\n",
+    "2511.19149": "|**2025-11-24**|**From Pixels to Posts: Retrieval-Augmented Fashion Captioning and Hashtag Generation**|Moazzam Umer Gondal et.al.|[2511.19149](http://arxiv.org/abs/2511.19149)|null|\n",
+    "2511.19105": "|**2025-11-24**|**Graph-based 3D Human Pose Estimation using WiFi Signals**|Jichao Chen et.al.|[2511.19105](http://arxiv.org/abs/2511.19105)|null|\n",
+    "2511.19080": "|**2025-11-24**|**Towards Generalizable Deepfake Detection via Forgery-aware Audio-Visual Adaptation: A Variational Bayesian Approach**|Fan Nie et.al.|[2511.19080](http://arxiv.org/abs/2511.19080)|null|\n",
+    "2511.19057": "|**2025-11-24**|**LAA3D: A Benchmark of Detecting and Tracking Low-Altitude Aircraft in 3D Space**|Hai Wu et.al.|[2511.19057](http://arxiv.org/abs/2511.19057)|null|\n",
+    "2511.19031": "|**2025-11-24**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Haihang Wu et.al.|[2511.19031](http://arxiv.org/abs/2511.19031)|null|\n",
+    "2511.19021": "|**2025-11-24**|**Dynamic Granularity Matters: Rethinking Vision Transformers Beyond Fixed Patch Splitting**|Qiyang Yu et.al.|[2511.19021](http://arxiv.org/abs/2511.19021)|null|\n"
   },
   "Keypoint Detection": {
     "2110.05216": "|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216](http://arxiv.org/abs/2110.05216)|null|\n",
@@ -3354,7 +3382,7 @@
     "2511.13168": "|**2025-11-17**|**SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration**|Haodong Wang et.al.|[2511.13168](http://arxiv.org/abs/2511.13168)|null|\n",
     "2511.12268": "|**2025-11-15**|**Multimodal RGB-HSI Feature Fusion with Patient-Aware Incremental Heuristic Meta-Learning for Oral Lesion Classification**|Rupam Mukherjee et.al.|[2511.12268](http://arxiv.org/abs/2511.12268)|null|\n",
     "2511.12241": "|**2025-11-15**|**AURA: Development and Validation of an Augmented Unplanned Removal Alert System using Synthetic ICU Videos**|Junhyuk Seo et.al.|[2511.12241](http://arxiv.org/abs/2511.12241)|null|\n",
-    "2511.14335": "|**2025-11-18**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|null|\n",
+    "2511.14335": "|**2025-11-23**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|null|\n",
     "2511.14210": "|**2025-11-19**|**Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution**|N Dinesh Reddy et.al.|[2511.14210](http://arxiv.org/abs/2511.14210)|null|\n",
     "2511.14109": "|**2025-11-18**|**$A^2$GC: $A$symmetric $A$ggregation with Geometric Constraints for Locally Aggregated Descriptors**|Zhenyu Li et.al.|[2511.14109](http://arxiv.org/abs/2511.14109)|null|\n",
     "2511.13960": "|**2025-11-17**|**Classification of Aortic Shape with Topographical Pair Correlation Functions**|Cooper Bruno et.al.|[2511.13960](http://arxiv.org/abs/2511.13960)|null|\n",
@@ -3794,7 +3822,17 @@
     "2511.17155": "|**2025-11-21**|**UI-Styler: Ultrasound Image Style Transfer with Class-Aware Prompts for Cross-Device Diagnosis Using a Frozen Black-Box Inference Network**|Nhat-Tuong Do-Tran et.al.|[2511.17155](http://arxiv.org/abs/2511.17155)|null|\n",
     "2511.17111": "|**2025-11-21**|**Towards Generative Design Using Optimal Transport for Shape Exploration and Solution Field Interpolation**|Sergio Torregrosa et.al.|[2511.17111](http://arxiv.org/abs/2511.17111)|null|\n",
     "2511.16955": "|**2025-11-21**|**Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models**|Dailan He et.al.|[2511.16955](http://arxiv.org/abs/2511.16955)|null|\n",
-    "2511.16814": "|**2025-11-20**|**Stable diffusion models reveal a persisting human and AI gap in visual creativity**|Silvia Rondini et.al.|[2511.16814](http://arxiv.org/abs/2511.16814)|null|\n"
+    "2511.16814": "|**2025-11-20**|**Stable diffusion models reveal a persisting human and AI gap in visual creativity**|Silvia Rondini et.al.|[2511.16814](http://arxiv.org/abs/2511.16814)|null|\n",
+    "2511.19434": "|**2025-11-24**|**Breaking the Likelihood-Quality Trade-off in Diffusion Models by Merging Pretrained Experts**|Yasin Esfandiari et.al.|[2511.19434](http://arxiv.org/abs/2511.19434)|null|\n",
+    "2511.19379": "|**2025-11-24**|**Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware**|Srishti Gupta et.al.|[2511.19379](http://arxiv.org/abs/2511.19379)|null|\n",
+    "2511.19365": "|**2025-11-24**|**DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation**|Zehong Ma et.al.|[2511.19365](http://arxiv.org/abs/2511.19365)|null|\n",
+    "2511.19268": "|**2025-11-24**|**BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment**|Dewei Zhou et.al.|[2511.19268](http://arxiv.org/abs/2511.19268)|null|\n",
+    "2511.19071": "|**2025-11-24**|**DEAP-3DSAM: Decoder Enhanced and Auto Prompt SAM for 3D Medical Image Segmentation**|Fangda Chen et.al.|[2511.19071](http://arxiv.org/abs/2511.19071)|null|\n",
+    "2511.19040": "|**2025-11-24**|**Machine Learning Based Identification of Solar Disk and Plages in Kodaikanal Solar Observatory Historical Suncharts**|Dibya Kirti Mishra et.al.|[2511.19040](http://arxiv.org/abs/2511.19040)|null|\n",
+    "2511.18942": "|**2025-11-24**|**VeCoR - Velocity Contrastive Regularization for Flow Matching**|Zong-Wei Hong et.al.|[2511.18942](http://arxiv.org/abs/2511.18942)|null|\n",
+    "2511.18834": "|**2025-11-24**|**FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories**|Lei Ke et.al.|[2511.18834](http://arxiv.org/abs/2511.18834)|null|\n",
+    "2511.18831": "|**2025-11-24**|**VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction**|Shaobo Wang et.al.|[2511.18831](http://arxiv.org/abs/2511.18831)|null|\n",
+    "2511.18765": "|**2025-11-24**|**NI-Tex: Non-isometric Image-based Garment Texture Generation**|Hui Shan et.al.|[2511.18765](http://arxiv.org/abs/2511.18765)|null|\n"
   },
   "NeRF": {
     "2208.05963": "|**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963](http://arxiv.org/abs/2208.05963)|null|\n",
@@ -5504,6 +5542,9 @@
     "2511.12304": "|**2025-11-15**|**LiDAR-GS++:Improving LiDAR Gaussian Reconstruction via Diffusion Priors**|Qifeng Chen et.al.|[2511.12304](http://arxiv.org/abs/2511.12304)|null|\n",
     "2511.14149": "|**2025-11-18**|**iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion**|Hao Wang et.al.|[2511.14149](http://arxiv.org/abs/2511.14149)|null|\n",
     "2511.16542": "|**2025-11-20**|**EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering**|Pierrick Bournez et.al.|[2511.16542](http://arxiv.org/abs/2511.16542)|null|\n",
-    "2511.17322": "|**2025-11-21**|**NoPe-NeRF++: Local-to-Global Optimization of NeRF with No Pose Prior**|Dongbo Shi et.al.|[2511.17322](http://arxiv.org/abs/2511.17322)|null|\n"
+    "2511.17322": "|**2025-11-21**|**NoPe-NeRF++: Local-to-Global Optimization of NeRF with No Pose Prior**|Dongbo Shi et.al.|[2511.17322](http://arxiv.org/abs/2511.17322)|null|\n",
+    "2511.18806": "|**2025-11-24**|**TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging**|Qinglei Cao et.al.|[2511.18806](http://arxiv.org/abs/2511.18806)|null|\n",
+    "2511.18441": "|**2025-11-23**|**ReCoGS: Real-time ReColoring for Gaussian Splatting scenes**|Lorenzo Rutayisire et.al.|[2511.18441](http://arxiv.org/abs/2511.18441)|null|\n",
+    "2511.18293": "|**2025-11-23**|**AIA-UltraNeRF:Acoustic-Impedance-Aware Neural Radiance Field with Hash Encodings for Robotic Ultrasound Reconstruction and Localization**|Shuai Zhang et.al.|[2511.18293](http://arxiv.org/abs/2511.18293)|null|\n"
   }
 }

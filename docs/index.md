@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Haihang Wu et.al.|[2511.19031](http://arxiv.org/abs/2511.19031)|null|
+|**2025-11-24**|**AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion**|Changsheng Luo et.al.|[2511.18857](http://arxiv.org/abs/2511.18857)|null|
+|**2025-11-24**|**SP-VINS: A Hybrid Stereo Visual Inertial Navigation System based on Implicit Environmental Map**|Xueyu Du et.al.|[2511.18756](http://arxiv.org/abs/2511.18756)|null|
+|**2025-11-24**|**Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing**|Xiaotong Huang et.al.|[2511.18755](http://arxiv.org/abs/2511.18755)|null|
+|**2025-11-24**|**Stable Multi-Drone GNSS Tracking System for Marine Robots**|Shuo Wen et.al.|[2511.18694](http://arxiv.org/abs/2511.18694)|null|
+|**2025-11-23**|**Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span**|Heeseung Yun et.al.|[2511.18470](http://arxiv.org/abs/2511.18470)|null|
+|**2025-11-22**|**Unobservable Subspace Evolution and Alignment for Consistent Visual-Inertial Navigation**|Chungeng Tian et.al.|[2511.17992](http://arxiv.org/abs/2511.17992)|null|
+|**2025-11-21**|**Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?**|Dingrui Wang et.al.|[2511.17792](http://arxiv.org/abs/2511.17792)|null|
 |**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yifan Li et.al.|[2511.17384](http://arxiv.org/abs/2511.17384)|null|
 |**2025-11-21**|**MonoSpheres: Large-Scale Monocular SLAM-Based UAV Exploration through Perception-Coupled Mapping and Planning**|Tomáš Musil et.al.|[2511.17299](http://arxiv.org/abs/2511.17299)|null|
 |**2025-11-21**|**SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors**|Kunyi Li et.al.|[2511.17207](http://arxiv.org/abs/2511.17207)|null|
@@ -1129,6 +1137,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization**|Ellie L. Zhang et.al.|[2511.19275](http://arxiv.org/abs/2511.19275)|null|
+|**2025-11-24**|**A Deep-Learning-Based Framework for Focal Mechanism Determination and Its Application to the 2022 Luding Earthquake Sequence**|Ziye Yu et.al.|[2511.19185](http://arxiv.org/abs/2511.19185)|null|
+|**2025-11-24**|**MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes**|Kehua Chen et.al.|[2511.19172](http://arxiv.org/abs/2511.19172)|null|
+|**2025-11-24**|**The variability of blazars throughout the electromagnetic spectrum**|Claudia M. Raiteri et.al.|[2511.18975](http://arxiv.org/abs/2511.18975)|null|
+|**2025-11-24**|**MagicWorld: Interactive Geometry-driven Video World Exploration**|Guangyuan Li et.al.|[2511.18886](http://arxiv.org/abs/2511.18886)|null|
+|**2025-11-24**|**STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution**|Junyang Chen et.al.|[2511.18786](http://arxiv.org/abs/2511.18786)|null|
+|**2025-11-24**|**On the role of fractional Brownian motion in models of chemotaxis and stochastic gradient ascent**|Gustavo Cornejo-Olea et.al.|[2511.18745](http://arxiv.org/abs/2511.18745)|null|
+|**2025-11-23**|**C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction**|Kuan Wei Huang et.al.|[2511.18559](http://arxiv.org/abs/2511.18559)|null|
+|**2025-11-23**|**Non-Symplectic Deformations of Geometric Quantisation**|Kerr Maxwell et.al.|[2511.18549](http://arxiv.org/abs/2511.18549)|null|
+|**2025-11-23**|**Zero-Shot Video Deraining with Video Diffusion Models**|Tuomas Varanka et.al.|[2511.18537](http://arxiv.org/abs/2511.18537)|null|
 |**2025-11-21**|**TRAO Survey of the Nearby Filamentary Molecular Clouds, the Universal Nursery of Stars (TRAO-FUNS). IV. Filaments and Dense Cores in the W40 and Serpens South Regions of Aquila**|Satyajeet Moharana et.al.|[2511.16978](http://arxiv.org/abs/2511.16978)|null|
 |**2025-11-21**|**One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements**|Yiheng Bian et.al.|[2511.16966](http://arxiv.org/abs/2511.16966)|null|
 |**2025-11-20**|**TriDiff-4D: Fast 4D Generation through Diffusion-based Triplane Re-posing**|Eddie Pokming Sheung et.al.|[2511.16662](http://arxiv.org/abs/2511.16662)|null|
@@ -1659,6 +1677,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Wigner and Gabor phase-space analysis of propagators for evolution equations**|Elena Cordero et.al.|[2511.19400](http://arxiv.org/abs/2511.19400)|null|
+|**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Jorge Ortigoso-Narro et.al.|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
+|**2025-11-24**|**In-vivo imaging with a low-cost MRI scanner and cloud data processing in low-resource settings**|Teresa Guallart-Naval et.al.|[2511.19226](http://arxiv.org/abs/2511.19226)|null|
+|**2025-11-24**|**Can Modern Vision Models Understand the Difference Between an Object and a Look-alike?**|Itay Cohen et.al.|[2511.19200](http://arxiv.org/abs/2511.19200)|null|
+|**2025-11-24**|**From Pixels to Posts: Retrieval-Augmented Fashion Captioning and Hashtag Generation**|Moazzam Umer Gondal et.al.|[2511.19149](http://arxiv.org/abs/2511.19149)|null|
+|**2025-11-24**|**Graph-based 3D Human Pose Estimation using WiFi Signals**|Jichao Chen et.al.|[2511.19105](http://arxiv.org/abs/2511.19105)|null|
+|**2025-11-24**|**Towards Generalizable Deepfake Detection via Forgery-aware Audio-Visual Adaptation: A Variational Bayesian Approach**|Fan Nie et.al.|[2511.19080](http://arxiv.org/abs/2511.19080)|null|
+|**2025-11-24**|**LAA3D: A Benchmark of Detecting and Tracking Low-Altitude Aircraft in 3D Space**|Hai Wu et.al.|[2511.19057](http://arxiv.org/abs/2511.19057)|null|
+|**2025-11-24**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Haihang Wu et.al.|[2511.19031](http://arxiv.org/abs/2511.19031)|null|
+|**2025-11-24**|**Dynamic Granularity Matters: Rethinking Vision Transformers Beyond Fixed Patch Splitting**|Qiyang Yu et.al.|[2511.19021](http://arxiv.org/abs/2511.19021)|null|
 |**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|[2511.17442](http://arxiv.org/abs/2511.17442)|null|
 |**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yifan Li et.al.|[2511.17384](http://arxiv.org/abs/2511.17384)|null|
 |**2025-11-21**|**SVRecon: Sparse Voxel Rasterization for Surface Reconstruction**|Seunghun Oh et.al.|[2511.17364](http://arxiv.org/abs/2511.17364)|null|
@@ -3018,7 +3046,7 @@ layout: default
 |**2025-11-21**|**Teager-Kaiser Energy Methods For EEG Feature Extraction In Biomedical Applications**|Ioanna Chourdaki et.al.|[2511.17164](http://arxiv.org/abs/2511.17164)|null|
 |**2025-11-21**|**Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy**|Caroline Malhaire et.al.|[2511.17158](http://arxiv.org/abs/2511.17158)|null|
 |**2025-11-20**|**PySERA: Open-Source Standardized Python Library for Automated, Scalable, and Reproducible Handcrafted and Deep Radiomics**|Mohammad R. Salmanpour et.al.|[2511.15963](http://arxiv.org/abs/2511.15963)|null|
-|**2025-11-18**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|null|
+|**2025-11-23**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|null|
 |**2025-11-19**|**Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution**|N Dinesh Reddy et.al.|[2511.14210](http://arxiv.org/abs/2511.14210)|null|
 |**2025-11-18**|**$A^2$GC: $A$symmetric $A$ ggregation with Geometric Constraints for Locally Aggregated Descriptors**|Zhenyu Li et.al.|[2511.14109](http://arxiv.org/abs/2511.14109)|null|
 |**2025-11-17**|**Classification of Aortic Shape with Topographical Pair Correlation Functions**|Cooper Bruno et.al.|[2511.13960](http://arxiv.org/abs/2511.13960)|null|
@@ -3384,6 +3412,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Breaking the Likelihood-Quality Trade-off in Diffusion Models by Merging Pretrained Experts**|Yasin Esfandiari et.al.|[2511.19434](http://arxiv.org/abs/2511.19434)|null|
+|**2025-11-24**|**Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware**|Srishti Gupta et.al.|[2511.19379](http://arxiv.org/abs/2511.19379)|null|
+|**2025-11-24**|**DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation**|Zehong Ma et.al.|[2511.19365](http://arxiv.org/abs/2511.19365)|null|
+|**2025-11-24**|**BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment**|Dewei Zhou et.al.|[2511.19268](http://arxiv.org/abs/2511.19268)|null|
+|**2025-11-24**|**DEAP-3DSAM: Decoder Enhanced and Auto Prompt SAM for 3D Medical Image Segmentation**|Fangda Chen et.al.|[2511.19071](http://arxiv.org/abs/2511.19071)|null|
+|**2025-11-24**|**Machine Learning Based Identification of Solar Disk and Plages in Kodaikanal Solar Observatory Historical Suncharts**|Dibya Kirti Mishra et.al.|[2511.19040](http://arxiv.org/abs/2511.19040)|null|
+|**2025-11-24**|**VeCoR - Velocity Contrastive Regularization for Flow Matching**|Zong-Wei Hong et.al.|[2511.18942](http://arxiv.org/abs/2511.18942)|null|
+|**2025-11-24**|**FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories**|Lei Ke et.al.|[2511.18834](http://arxiv.org/abs/2511.18834)|null|
+|**2025-11-24**|**VideoCompressa: Data-Efficient Video Understanding via Joint Temporal Compression and Spatial Reconstruction**|Shaobo Wang et.al.|[2511.18831](http://arxiv.org/abs/2511.18831)|null|
+|**2025-11-24**|**NI-Tex: Non-isometric Image-based Garment Texture Generation**|Hui Shan et.al.|[2511.18765](http://arxiv.org/abs/2511.18765)|null|
 |**2025-11-21**|**SMILE: A Composite Lexical-Semantic Metric for Question-Answering Evaluation**|Shrikant Kendre et.al.|[2511.17432](http://arxiv.org/abs/2511.17432)|null|
 |**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov et.al.|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
 |**2025-11-21**|**ATAC: Augmentation-Based Test-Time Adversarial Correction for CLIP**|Linxiang Su et.al.|[2511.17362](http://arxiv.org/abs/2511.17362)|null|
@@ -3821,6 +3859,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging**|Qinglei Cao et.al.|[2511.18806](http://arxiv.org/abs/2511.18806)|null|
+|**2025-11-23**|**ReCoGS: Real-time ReColoring for Gaussian Splatting scenes**|Lorenzo Rutayisire et.al.|[2511.18441](http://arxiv.org/abs/2511.18441)|null|
+|**2025-11-23**|**AIA-UltraNeRF:Acoustic-Impedance-Aware Neural Radiance Field with Hash Encodings for Robotic Ultrasound Reconstruction and Localization**|Shuai Zhang et.al.|[2511.18293](http://arxiv.org/abs/2511.18293)|null|
 |**2025-11-21**|**NoPe-NeRF++: Local-to-Global Optimization of NeRF with No Pose Prior**|Dongbo Shi et.al.|[2511.17322](http://arxiv.org/abs/2511.17322)|null|
 |**2025-11-20**|**EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering**|Pierrick Bournez et.al.|[2511.16542](http://arxiv.org/abs/2511.16542)|null|
 |**2025-11-18**|**iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion**|Hao Wang et.al.|[2511.14149](http://arxiv.org/abs/2511.14149)|null|
