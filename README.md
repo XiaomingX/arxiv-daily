@@ -1,4 +1,4 @@
-## Updated on 2025.11.26
+## Updated on 2025.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**The origin of B-type runaway stars based on kinematics**|Yanjun Guo et.al.|[2511.20566](http://arxiv.org/abs/2511.20566)|null|
+|**2025-11-25**|**Metric, inertially aligned monocular state estimation via kinetodynamic priors**|Jiaxin Liu et.al.|[2511.20496](http://arxiv.org/abs/2511.20496)|null|
+|**2025-11-25**|**AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend**|Hengyi Wang et.al.|[2511.20343](http://arxiv.org/abs/2511.20343)|null|
+|**2025-11-25**|**Stellar Parameters of BOSS M dwarfs in SDSS-V DR19**|Dan Qiu et.al.|[2511.20005](http://arxiv.org/abs/2511.20005)|null|
 |**2025-11-24**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Haihang Wu et.al.|[2511.19031](http://arxiv.org/abs/2511.19031)|null|
 |**2025-11-24**|**AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion**|Changsheng Luo et.al.|[2511.18857](http://arxiv.org/abs/2511.18857)|null|
 |**2025-11-24**|**SP-VINS: A Hybrid Stereo Visual Inertial Navigation System based on Implicit Environmental Map**|Xueyu Du et.al.|[2511.18756](http://arxiv.org/abs/2511.18756)|null|
@@ -1141,12 +1145,20 @@
 |**2019-09-17**|**DSVO: Direct Stereo Visual Odometry**|Jiawei Mo et.al.|[1810.03963](http://arxiv.org/abs/1810.03963)|null|
 |**2017-10-06**|**Online Photometric Calibration for Auto Exposure Video for Realtime Visual Odometry and SLAM**|Paul Bergmann et.al.|[1710.02081](http://arxiv.org/abs/1710.02081)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
+|**2025-11-25**|**Dance Style Classification using Laban-Inspired and Frequency-Domain Motion Features**|Ben Hamscher et.al.|[2511.20469](http://arxiv.org/abs/2511.20469)|null|
+|**2025-11-25**|**AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend**|Hengyi Wang et.al.|[2511.20343](http://arxiv.org/abs/2511.20343)|null|
+|**2025-11-25**|**Stochastic Dynamics of Skyrmions on a Racetrack: Impact of Equilibrium and Nonequilibrium Noise**|Anton V. Hlushchenko et.al.|[2511.20287](http://arxiv.org/abs/2511.20287)|null|
+|**2025-11-25**|**Numerical Simulation of the Cleaning Process of Microchannel by an External Flow**|Boris S. Maryshev et.al.|[2511.20228](http://arxiv.org/abs/2511.20228)|null|
+|**2025-11-25**|**STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction**|Jiankuo Zhao et.al.|[2511.19854](http://arxiv.org/abs/2511.19854)|null|
+|**2025-11-24**|**Infrared absorption spectroscopy of a single polyatomic molecular ion**|Zhenlin Wu et.al.|[2511.19687](http://arxiv.org/abs/2511.19687)|null|
+|**2025-11-24**|**KIC 5623923: A Faint Eclipsing Binary Consisting of $δ$ Scuti pulsations**|Tao-Zhi Yang et.al.|[2511.19685](http://arxiv.org/abs/2511.19685)|null|
 |**2025-11-24**|**Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization**|Ellie L. Zhang et.al.|[2511.19275](http://arxiv.org/abs/2511.19275)|null|
 |**2025-11-24**|**A Deep-Learning-Based Framework for Focal Mechanism Determination and Its Application to the 2022 Luding Earthquake Sequence**|Ziye Yu et.al.|[2511.19185](http://arxiv.org/abs/2511.19185)|null|
 |**2025-11-24**|**MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes**|Kehua Chen et.al.|[2511.19172](http://arxiv.org/abs/2511.19172)|null|
@@ -1683,12 +1695,22 @@
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|null|
 |**2017-04-26**|**SfM-Net: Learning of Structure and Motion from Video**|Sudheendra Vijayanarasimhan et.al.|[1704.07804](http://arxiv.org/abs/1704.07804)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Adaptive Hopfield Network: Rethinking Similarities in Associative Memory**|Shurong Wang et.al.|[2511.20609](http://arxiv.org/abs/2511.20609)|null|
+|**2025-11-25**|**New York Smells: A Large Multimodal Dataset for Olfaction**|Ege Ozguroglu et.al.|[2511.20544](http://arxiv.org/abs/2511.20544)|null|
+|**2025-11-25**|**Wide Area Surface Dosimetry with Conformal Scintillator Array for External Beam Radiotherapy**|Roman Vasyltsiv et.al.|[2511.20472](http://arxiv.org/abs/2511.20472)|null|
+|**2025-11-25**|**Power-Efficient Autonomous Mobile Robots**|Liangkai Liu et.al.|[2511.20467](http://arxiv.org/abs/2511.20467)|null|
+|**2025-11-25**|**STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow**|Jiatao Gu et.al.|[2511.20462](http://arxiv.org/abs/2511.20462)|null|
+|**2025-11-25**|**Look Where It Matters: Training-Free Ultra-HR Remote Sensing VQA via Adaptive Zoom Search**|Yunqi Zhou et.al.|[2511.20460](http://arxiv.org/abs/2511.20460)|null|
+|**2025-11-25**|**Interactive Visualization of Proof-of-Work Consensus Protocol on Raspberry Pi**|Anton Ivashkevich et.al.|[2511.20391](http://arxiv.org/abs/2511.20391)|null|
+|**2025-11-25**|**TaCo: Capturing Spatio-Temporal Semantic Consistency in Remote Sensing Change Detection**|Han Guo et.al.|[2511.20306](http://arxiv.org/abs/2511.20306)|null|
+|**2025-11-25**|**Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations**|Chao Wang et.al.|[2511.20295](http://arxiv.org/abs/2511.20295)|null|
+|**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
 |**2025-11-24**|**Wigner and Gabor phase-space analysis of propagators for evolution equations**|Elena Cordero et.al.|[2511.19400](http://arxiv.org/abs/2511.19400)|null|
 |**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Jorge Ortigoso-Narro et.al.|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
 |**2025-11-24**|**In-vivo imaging with a low-cost MRI scanner and cloud data processing in low-resource settings**|Teresa Guallart-Naval et.al.|[2511.19226](http://arxiv.org/abs/2511.19226)|null|
@@ -3051,12 +3073,14 @@
 |**2017-09-19**|**Beyond SIFT using Binary features for Loop Closure Detection**|Lei Han et.al.|[1709.05833](http://arxiv.org/abs/1709.05833)|null|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Dance Style Classification using Laban-Inspired and Frequency-Domain Motion Features**|Ben Hamscher et.al.|[2511.20469](http://arxiv.org/abs/2511.20469)|null|
+|**2025-11-25**|**Uplifting Table Tennis: A Robust, Real-World Application for 3D Trajectory and Spin Estimation**|Daniel Kienzle et.al.|[2511.20250](http://arxiv.org/abs/2511.20250)|null|
 |**2025-11-21**|**Teager-Kaiser Energy Methods For EEG Feature Extraction In Biomedical Applications**|Ioanna Chourdaki et.al.|[2511.17164](http://arxiv.org/abs/2511.17164)|null|
 |**2025-11-21**|**Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy**|Caroline Malhaire et.al.|[2511.17158](http://arxiv.org/abs/2511.17158)|null|
 |**2025-11-20**|**PySERA: Open-Source Standardized Python Library for Automated, Scalable, and Reproducible Handcrafted and Deep Radiomics**|Mohammad R. Salmanpour et.al.|[2511.15963](http://arxiv.org/abs/2511.15963)|null|
@@ -3422,12 +3446,22 @@
 |**2009-10-08**|**Visual object categorization with new keypoint-based adaBoost features**|Taoufik Bdiri et.al.|[0910.1294](http://arxiv.org/abs/0910.1294)|null|
 |**2009-10-08**|**Adaboost with "Keypoint Presence Features" for Real-Time Vehicle Visual Detection**|Taoufik Bdiri et.al.|[0910.1273](http://arxiv.org/abs/0910.1273)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al.|[2511.20648](http://arxiv.org/abs/2511.20648)|null|
+|**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|Wei Tang et.al.|[2511.20641](http://arxiv.org/abs/2511.20641)|null|
+|**2025-11-25**|**Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning**|Guanjie Chen et.al.|[2511.20549](http://arxiv.org/abs/2511.20549)|null|
+|**2025-11-25**|**STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow**|Jiatao Gu et.al.|[2511.20462](http://arxiv.org/abs/2511.20462)|null|
+|**2025-11-25**|**Planar Josephson junctions for sensors and electronics:Different geometry, new functionality**|Vladimir M. Krasnov et.al.|[2511.20424](http://arxiv.org/abs/2511.20424)|null|
+|**2025-11-25**|**Restora-Flow: Mask-Guided Image Restoration with Flow Matching**|Arnela Hadzic et.al.|[2511.20152](http://arxiv.org/abs/2511.20152)|null|
+|**2025-11-25**|**LungEvaty: A Scalable, Open-Source Transformer-based Deep Learning Model for Lung Cancer Risk Prediction in LDCT Screening**|Johannes Brandt et.al.|[2511.20116](http://arxiv.org/abs/2511.20116)|null|
+|**2025-11-25**|**Unusual Thermally Induced Blueshift and Emission Amplification of Mn2+ ions Enable Filter-Free Luminescent Thermal Imaging**|Y. Abe et.al.|[2511.19993](http://arxiv.org/abs/2511.19993)|null|
+|**2025-11-25**|**SONIC: Spectral Optimization of Noise for Inpainting with Consistency**|Seungyeon Baek et.al.|[2511.19985](http://arxiv.org/abs/2511.19985)|null|
+|**2025-11-25**|**Learning Degenerate Manifolds of Frustrated Magnets with Boltzmann Machines**|Jackson C. Glass et.al.|[2511.19879](http://arxiv.org/abs/2511.19879)|null|
 |**2025-11-24**|**Breaking the Likelihood-Quality Trade-off in Diffusion Models by Merging Pretrained Experts**|Yasin Esfandiari et.al.|[2511.19434](http://arxiv.org/abs/2511.19434)|null|
 |**2025-11-24**|**Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware**|Srishti Gupta et.al.|[2511.19379](http://arxiv.org/abs/2511.19379)|null|
 |**2025-11-24**|**DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation**|Zehong Ma et.al.|[2511.19365](http://arxiv.org/abs/2511.19365)|null|
@@ -3871,12 +3905,14 @@
 |**2018-10-01**|**SConE: Siamese Constellation Embedding Descriptor for Image Matching**|Tomasz Trzcinski et.al.|[1809.11054](http://arxiv.org/abs/1809.11054)|null|
 |**2019-05-08**|**Learning Local Descriptors by Optimizing the Keypoint-Correspondence Criterion: Applications to Face Matching, Learning from Unlabeled Videos and 3D-Shape Retrieval**|Nenad Markuš et.al.|[1603.09095](http://arxiv.org/abs/1603.09095)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation**|Jaeyeong Kim et.al.|[2511.19542](http://arxiv.org/abs/2511.19542)|null|
+|**2025-11-24**|**MapRF: Weakly Supervised Online HD Map Construction via NeRF-Guided Self-Training**|Hongyu Lyu et.al.|[2511.19527](http://arxiv.org/abs/2511.19527)|null|
 |**2025-11-24**|**TPG-INR: Target Prior-Guided Implicit 3D CT Reconstruction for Enhanced Sparse-view Imaging**|Qinglei Cao et.al.|[2511.18806](http://arxiv.org/abs/2511.18806)|null|
 |**2025-11-23**|**ReCoGS: Real-time ReColoring for Gaussian Splatting scenes**|Lorenzo Rutayisire et.al.|[2511.18441](http://arxiv.org/abs/2511.18441)|null|
 |**2025-11-23**|**AIA-UltraNeRF:Acoustic-Impedance-Aware Neural Radiance Field with Hash Encodings for Robotic Ultrasound Reconstruction and Localization**|Shuai Zhang et.al.|[2511.18293](http://arxiv.org/abs/2511.18293)|null|
@@ -5589,7 +5625,7 @@
 |**2022-02-11**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263](http://arxiv.org/abs/2202.05263)|null|
 |**2021-01-18**|**Neural Volume Rendering: NeRF And Beyond**|Frank Dellaert et.al.|[2101.05204](http://arxiv.org/abs/2101.05204)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
