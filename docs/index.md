@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-13**|**INDOOR-LiDAR: Bridging Simulation and Reality for Robot-Centric 360 degree Indoor LiDAR Perception -- A Robot-Centric Hybrid Dataset**|Haichuan Li et.al.|[2512.12377](http://arxiv.org/abs/2512.12377)|null|
+|**2025-12-13**|**Semantic Zone based 3D Map Management for Mobile Robot**|Huichang Yun et.al.|[2512.12228](http://arxiv.org/abs/2512.12228)|null|
+|**2025-12-13**|**Navigation Around Unknown Space Objects Using Visible-Thermal Image Fusion**|Eric J. Elias et.al.|[2512.12203](http://arxiv.org/abs/2512.12203)|null|
 |**2025-12-11**|**Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks**|Gaozhao Wang et.al.|[2512.10481](http://arxiv.org/abs/2512.10481)|null|
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](http://arxiv.org/abs/2512.10360)|null|
 |**2025-12-10**|**Inertial Magnetic SLAM Systems Using Low-Cost Sensors**|Chuan Huang et.al.|[2512.10128](http://arxiv.org/abs/2512.10128)|null|
@@ -1764,6 +1767,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Towards Test-time Efficient Visual Place Recognition via Asymmetric Query Processing**|Jaeyoon Kim et.al.|[2512.13055](http://arxiv.org/abs/2512.13055)|null|
+|**2025-12-14**|**Patch-wise Retrieval: A Bag of Practical Techniques for Instance-level Matching**|Wonseok Choi et.al.|[2512.12610](http://arxiv.org/abs/2512.12610)|null|
 |**2025-12-11**|**Beyond Pixels: A Training-Free, Text-to-Text Framework for Remote Sensing Image Retrieval**|J. Xiao et.al.|[2512.10596](http://arxiv.org/abs/2512.10596)|null|
 |**2025-12-10**|**YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos**|Ryan Meegan et.al.|[2512.09903](http://arxiv.org/abs/2512.09903)|null|
 |**2025-12-09**|**Adaptive Thresholding for Visual Place Recognition using Negative Gaussian Mixture Statistics**|Nick Trinh et.al.|[2512.09071](http://arxiv.org/abs/2512.09071)|null|
@@ -1786,7 +1791,7 @@ layout: default
 |**2025-12-02**|**MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding**|Fan Yang et.al.|[2512.02906](http://arxiv.org/abs/2512.02906)|null|
 |**2025-12-02**|**Polar Perspectives: Evaluating 2-D LiDAR Projections for Robust Place Recognition with Visual Foundation Models**|Pierpaolo Serio et.al.|[2512.02897](http://arxiv.org/abs/2512.02897)|null|
 |**2025-12-02**|**BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion**|Sai Koneru et.al.|[2512.02817](http://arxiv.org/abs/2512.02817)|null|
-|**2025-12-02**|**HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval**|Zhiwei Chen et.al.|[2512.02792](http://arxiv.org/abs/2512.02792)|null|
+|**2025-12-14**|**HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval**|Zhiwei Chen et.al.|[2512.02792](http://arxiv.org/abs/2512.02792)|null|
 |**2025-12-02**|**Beyond Paired Data: Self-Supervised UAV Geo-Localization from Reference Imagery Alone**|Tristan Amadei et.al.|[2512.02737](http://arxiv.org/abs/2512.02737)|null|
 |**2025-12-02**|**DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions**|Yifan Zhou et.al.|[2512.02727](http://arxiv.org/abs/2512.02727)|null|
 |**2025-12-02**|**Training Data Attribution for Image Generation using Ontology-Aligned Knowledge Graphs**|Theodoros Aivalis et.al.|[2512.02713](http://arxiv.org/abs/2512.02713)|null|
@@ -3201,6 +3206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[2512.13677](http://arxiv.org/abs/2512.13677)|null|
 |**2025-12-08**|**UnCageNet: Tracking and Pose Estimation of Caged Animal**|Sayak Dutta et.al.|[2512.07712](http://arxiv.org/abs/2512.07712)|null|
 |**2025-12-03**|**Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer**|Tasmiah Haque et.al.|[2512.04282](http://arxiv.org/abs/2512.04282)|null|
 |**2025-12-03**|**Leveraging topological data analysis to estimate bone strength from micro-CT as a surrogate for advanced imaging**|John Rick Manzanares et.al.|[2512.03880](http://arxiv.org/abs/2512.03880)|null|
@@ -3595,7 +3601,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-11**|**Self-Supervised Contrastive Embedding Adaptation for Endoscopic Image Matching**|Alberto Rota et.al.|[2512.10379](http://arxiv.org/abs/2512.10379)|null|
-|**2025-12-11**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|null|
+|**2025-12-14**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
 |**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|null|
 |**2025-12-04**|**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression**|Jung Yi et.al.|[2512.05081](http://arxiv.org/abs/2512.05081)|null|
@@ -4106,10 +4112,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-14**|**Quantum Implicit Neural Representations for 3D Scene Reconstruction and Novel View Synthesis**|Yeray Cordero et.al.|[2512.12683](http://arxiv.org/abs/2512.12683)|null|
 |**2025-12-11**|**Physically Aware 360 $^\circ$ View Generation from a Single Image using Disentangled Scene Embeddings**|Karthikeya KV et.al.|[2512.10293](http://arxiv.org/abs/2512.10293)|null|
 |**2025-12-10**|**Log NeRF: Comparing Spaces for Learning Radiance Fields**|Sihe Chen et.al.|[2512.09375](http://arxiv.org/abs/2512.09375)|null|
 |**2025-12-11**|**Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video**|Seonghwa Choi et.al.|[2512.09335](http://arxiv.org/abs/2512.09335)|null|
-|**2025-12-09**|**HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting**|Chang Liu et.al.|[2512.08334](http://arxiv.org/abs/2512.08334)|null|
+|**2025-12-15**|**HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting**|Chang Liu et.al.|[2512.08334](http://arxiv.org/abs/2512.08334)|null|
 |**2025-12-09**|**Blur2Sharp: Human Novel Pose and View Synthesis with Generative Prior Refinement**|Chia-Hern Lai et.al.|[2512.08215](http://arxiv.org/abs/2512.08215)|null|
 |**2025-12-09**|**From Orbit to Ground: Generative City Photogrammetry from Extreme Off-Nadir Satellite Images**|Fei Yu et.al.|[2512.07527](http://arxiv.org/abs/2512.07527)|null|
 |**2025-12-08**|**Radiance-Field Reinforced Pretraining: Scaling Localization Models with Unlabeled Wireless Signals**|Guosheng Wang et.al.|[2512.07309](http://arxiv.org/abs/2512.07309)|null|
