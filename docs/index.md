@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.19
+## Updated on 2025.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461](http://arxiv.org/abs/2512.16461)|null|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
 |**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|null|
 |**2025-12-17**|**A Parameter-Free Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals**|Qi Wang et.al.|[2512.14979](http://arxiv.org/abs/2512.14979)|null|
@@ -1182,6 +1183,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**An evacuation simulator for pedestrian dynamics based on the Social Force Model**|Julián López et.al.|[2512.16887](http://arxiv.org/abs/2512.16887)|null|
+|**2025-12-18**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|null|
 |**2025-12-17**|**Robust Multi-view Camera Calibration from Dense Matches**|Johannes Hägerlind et.al.|[2512.15608](http://arxiv.org/abs/2512.15608)|null|
 |**2025-12-11**|**3D Blood Pulsation Maps**|Maurice Rohr et.al.|[2512.10517](http://arxiv.org/abs/2512.10517)|null|
 |**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
@@ -1777,6 +1780,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval**|Amna Amir et.al.|[2512.16294](http://arxiv.org/abs/2512.16294)|null|
 |**2025-12-16**|**CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer**|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
 |**2025-12-16**|**Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries**|Emanuele Mezzi et.al.|[2512.14102](http://arxiv.org/abs/2512.14102)|null|
 |**2025-12-15**|**Towards Test-time Efficient Visual Place Recognition via Asymmetric Query Processing**|Jaeyoon Kim et.al.|[2512.13055](http://arxiv.org/abs/2512.13055)|null|
@@ -3614,6 +3618,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs**|Tejas Anvekar et.al.|[2512.15949](http://arxiv.org/abs/2512.15949)|null|
 |**2025-12-11**|**Self-Supervised Contrastive Embedding Adaptation for Endoscopic Image Matching**|Alberto Rota et.al.|[2512.10379](http://arxiv.org/abs/2512.10379)|null|
 |**2025-12-14**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
@@ -4126,6 +4131,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He et.al.|[2512.16397](http://arxiv.org/abs/2512.16397)|null|
 |**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|null|
 |**2025-12-16**|**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**|Le Jiang et.al.|[2512.14406](http://arxiv.org/abs/2512.14406)|null|
 |**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](http://arxiv.org/abs/2512.14352)|null|
