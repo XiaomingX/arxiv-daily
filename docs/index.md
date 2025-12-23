@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1780,6 +1780,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Robust Scene Coordinate Regression via Geometrically-Consistent Global Descriptors**|Son Tung Nguyen et.al.|[2512.17226](http://arxiv.org/abs/2512.17226)|null|
+|**2025-12-18**|**The Effect of Negation on CLIP in Medical Imaging: Limitations of Contrastive Language-Image Pretraining**|Jasmine Vu et.al.|[2512.17121](http://arxiv.org/abs/2512.17121)|null|
 |**2025-12-18**|**MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval**|Amna Amir et.al.|[2512.16294](http://arxiv.org/abs/2512.16294)|null|
 |**2025-12-16**|**CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer**|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
 |**2025-12-16**|**Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries**|Emanuele Mezzi et.al.|[2512.14102](http://arxiv.org/abs/2512.14102)|null|
