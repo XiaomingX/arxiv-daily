@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.25
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1187,7 +1187,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-11**|**Enhanced Information Security via Wave-Field Selectivity and Structured Wavefront Manipulation**|Yufei Zhao et.al.|[2512.19702](http://arxiv.org/abs/2512.19702)|null|
 |**2025-12-18**|**An evacuation simulator for pedestrian dynamics based on the Social Force Model**|Julián López et.al.|[2512.16887](http://arxiv.org/abs/2512.16887)|null|
-|**2025-12-18**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|null|
+|**2025-12-24**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|null|
 |**2025-12-17**|**Robust Multi-view Camera Calibration from Dense Matches**|Johannes Hägerlind et.al.|[2512.15608](http://arxiv.org/abs/2512.15608)|null|
 |**2025-12-11**|**3D Blood Pulsation Maps**|Maurice Rohr et.al.|[2512.10517](http://arxiv.org/abs/2512.10517)|null|
 |**2025-12-21**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
@@ -1783,6 +1783,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
+|**2025-12-24**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|null|
+|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
 |**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|null|
 |**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
 |**2025-12-22**|**Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation**|Connor Kilrain et.al.|[2512.19026](http://arxiv.org/abs/2512.19026)|null|
@@ -3628,6 +3631,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei et.al.|[2512.21194](http://arxiv.org/abs/2512.21194)|null|
 |**2025-12-20**|**Analog Quantum Image Representation with Qubit-Frugal Encoding**|Vikrant Sharma et.al.|[2512.18451](http://arxiv.org/abs/2512.18451)|null|
 |**2025-12-17**|**The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs**|Tejas Anvekar et.al.|[2512.15949](http://arxiv.org/abs/2512.15949)|null|
 |**2025-12-11**|**Self-Supervised Contrastive Embedding Adaptation for Endoscopic Image Matching**|Alberto Rota et.al.|[2512.10379](http://arxiv.org/abs/2512.10379)|null|
