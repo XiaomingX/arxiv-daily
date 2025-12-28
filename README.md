@@ -1,4 +1,4 @@
-## Updated on 2025.12.27
+## Updated on 2025.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1189,7 +1189,7 @@
 |**2019-09-17**|**DSVO: Direct Stereo Visual Odometry**|Jiawei Mo et.al.|[1810.03963](http://arxiv.org/abs/1810.03963)|null|
 |**2017-10-06**|**Online Photometric Calibration for Auto Exposure Video for Realtime Visual Odometry and SLAM**|Paul Bergmann et.al.|[1710.02081](http://arxiv.org/abs/1710.02081)|null|
 
-<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## SFM
 
@@ -1789,7 +1789,7 @@
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|null|
 |**2017-04-26**|**SfM-Net: Learning of Structure and Motion from Video**|Sudheendra Vijayanarasimhan et.al.|[1704.07804](http://arxiv.org/abs/1704.07804)|null|
 
-<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -3243,7 +3243,7 @@
 |**2017-09-19**|**Beyond SIFT using Binary features for Loop Closure Detection**|Lei Han et.al.|[1709.05833](http://arxiv.org/abs/1709.05833)|null|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -3641,7 +3641,7 @@
 |**2009-10-08**|**Visual object categorization with new keypoint-based adaBoost features**|Taoufik Bdiri et.al.|[0910.1294](http://arxiv.org/abs/0910.1294)|null|
 |**2009-10-08**|**Adaboost with "Keypoint Presence Features" for Real-Time Vehicle Visual Detection**|Taoufik Bdiri et.al.|[0910.1273](http://arxiv.org/abs/0910.1273)|null|
 
-<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## Image Matching
 
@@ -4158,7 +4158,7 @@
 |**2018-10-01**|**SConE: Siamese Constellation Embedding Descriptor for Image Matching**|Tomasz Trzcinski et.al.|[1809.11054](http://arxiv.org/abs/1809.11054)|null|
 |**2019-05-08**|**Learning Local Descriptors by Optimizing the Keypoint-Correspondence Criterion: Applications to Face Matching, Learning from Unlabeled Videos and 3D-Shape Retrieval**|Nenad Markuš et.al.|[1603.09095](http://arxiv.org/abs/1603.09095)|null|
 
-<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## NeRF
 
@@ -5909,7 +5909,7 @@
 |**2022-02-11**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263](http://arxiv.org/abs/2202.05263)|null|
 |**2021-01-18**|**Neural Volume Rendering: NeRF And Beyond**|Frank Dellaert et.al.|[2101.05204](http://arxiv.org/abs/2101.05204)|null|
 
-<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
