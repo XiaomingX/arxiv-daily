@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Have We Mastered Scale in Deep Monocular Visual SLAM? The ScaleMaster Dataset and Benchmark**|Hyoseok Ju et.al.|[2602.18174](http://arxiv.org/abs/2602.18174)|null|
+|**2026-02-20**|**GrandTour: A Legged Robotics Dataset in the Wild for Multi-Modal Perception and State Estimation**|Jonas Frey et.al.|[2602.18164](http://arxiv.org/abs/2602.18164)|null|
 |**2026-02-19**|**Multi-session Localization and Mapping Exploiting Topological Information**|Lorenzo Montano-Olivan et.al.|[2602.17226](http://arxiv.org/abs/2602.17226)|null|
 |**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](http://arxiv.org/abs/2602.17182)|null|
 |**2026-02-19**|**Cholec80-port: A Geometrically Consistent Trocar Port Segmentation Dataset for Robust Surgical Scene Understanding**|Shunsuke Kikuchi et.al.|[2602.17060](http://arxiv.org/abs/2602.17060)|null|
@@ -1860,6 +1862,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**VQPP: Video Query Performance Prediction Benchmark**|Adrian Catalin Lutu et.al.|[2602.17814](http://arxiv.org/abs/2602.17814)|null|
 |**2026-02-19**|**Visual Model Checking: Graph-Based Inference of Visual Routines for Image Retrieval**|Adrià Molina et.al.|[2602.17386](http://arxiv.org/abs/2602.17386)|null|
 |**2026-02-18**|**SCAR: Satellite Imagery-Based Calibration for Aerial Recordings**|Henry Hölzemann et.al.|[2602.16349](http://arxiv.org/abs/2602.16349)|null|
 |**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308](http://arxiv.org/abs/2602.16308)|null|
@@ -4314,6 +4317,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis**|Ziteng Cui et.al.|[2602.18322](http://arxiv.org/abs/2602.18322)|null|
 |**2026-02-18**|**HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.|[2602.16950](http://arxiv.org/abs/2602.16950)|null|
 |**2026-02-18**|**Subtractive Modulative Network with Learnable Periodic Activations**|Tiou Wang et.al.|[2602.16337](http://arxiv.org/abs/2602.16337)|null|
 |**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Martínez-Petersen et.al.|[2602.13909](http://arxiv.org/abs/2602.13909)|null|

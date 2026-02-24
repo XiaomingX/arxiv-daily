@@ -1223,7 +1223,9 @@
     "2602.17182": "|**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](http://arxiv.org/abs/2602.17182)|null|\n",
     "2602.17060": "|**2026-02-19**|**Cholec80-port: A Geometrically Consistent Trocar Port Segmentation Dataset for Robust Surgical Scene Understanding**|Shunsuke Kikuchi et.al.|[2602.17060](http://arxiv.org/abs/2602.17060)|null|\n",
     "2602.16308": "|**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308](http://arxiv.org/abs/2602.16308)|null|\n",
-    "2602.15900": "|**2026-02-13**|**Adaptive Illumination Control for Robot Perception**|Yash Turkar et.al.|[2602.15900](http://arxiv.org/abs/2602.15900)|null|\n"
+    "2602.15900": "|**2026-02-13**|**Adaptive Illumination Control for Robot Perception**|Yash Turkar et.al.|[2602.15900](http://arxiv.org/abs/2602.15900)|null|\n",
+    "2602.18174": "|**2026-02-20**|**Have We Mastered Scale in Deep Monocular Visual SLAM? The ScaleMaster Dataset and Benchmark**|Hyoseok Ju et.al.|[2602.18174](http://arxiv.org/abs/2602.18174)|null|\n",
+    "2602.18164": "|**2026-02-20**|**GrandTour: A Legged Robotics Dataset in the Wild for Multi-Modal Perception and State Estimation**|Jonas Frey et.al.|[2602.18164](http://arxiv.org/abs/2602.18164)|null|\n"
   },
   "SFM": {
     "2110.07322": "|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322](http://arxiv.org/abs/2110.07322)|null|\n",
@@ -3359,7 +3361,8 @@
     "2602.17386": "|**2026-02-19**|**Visual Model Checking: Graph-Based Inference of Visual Routines for Image Retrieval**|Adri\u00e0 Molina et.al.|[2602.17386](http://arxiv.org/abs/2602.17386)|null|\n",
     "2602.16349": "|**2026-02-18**|**SCAR: Satellite Imagery-Based Calibration for Aerial Recordings**|Henry H\u00f6lzemann et.al.|[2602.16349](http://arxiv.org/abs/2602.16349)|null|\n",
     "2602.16308": "|**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308](http://arxiv.org/abs/2602.16308)|null|\n",
-    "2602.15988": "|**2026-02-17**|**Automated Assessment of Kidney Ureteroscopy Exploration for Training**|Fangjie Li et.al.|[2602.15988](http://arxiv.org/abs/2602.15988)|null|\n"
+    "2602.15988": "|**2026-02-17**|**Automated Assessment of Kidney Ureteroscopy Exploration for Training**|Fangjie Li et.al.|[2602.15988](http://arxiv.org/abs/2602.15988)|null|\n",
+    "2602.17814": "|**2026-02-19**|**VQPP: Video Query Performance Prediction Benchmark**|Adrian Catalin Lutu et.al.|[2602.17814](http://arxiv.org/abs/2602.17814)|null|\n"
   },
   "Keypoint Detection": {
     "2110.05216": "|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216](http://arxiv.org/abs/2110.05216)|null|\n",
@@ -6067,6 +6070,7 @@
     "2602.13909": "|**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Mart\u00ednez-Petersen et.al.|[2602.13909](http://arxiv.org/abs/2602.13909)|null|\n",
     "2602.13549": "|**2026-02-14**|**Nighttime Autonomous Driving Scene Reconstruction with Physically-Based Gaussian Splatting**|Tae-Kyeong Kim et.al.|[2602.13549](http://arxiv.org/abs/2602.13549)|null|\n",
     "2602.16950": "|**2026-02-18**|**HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.|[2602.16950](http://arxiv.org/abs/2602.16950)|null|\n",
-    "2602.16337": "|**2026-02-18**|**Subtractive Modulative Network with Learnable Periodic Activations**|Tiou Wang et.al.|[2602.16337](http://arxiv.org/abs/2602.16337)|null|\n"
+    "2602.16337": "|**2026-02-18**|**Subtractive Modulative Network with Learnable Periodic Activations**|Tiou Wang et.al.|[2602.16337](http://arxiv.org/abs/2602.16337)|null|\n",
+    "2602.18322": "|**2026-02-20**|**Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis**|Ziteng Cui et.al.|[2602.18322](http://arxiv.org/abs/2602.18322)|null|\n"
   }
 }
