@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|null|
+|**2026-03-03**|**Exploiting Double-Bounce Paths in Snapshot Radio SLAM: Bounds, Algorithms and Experiments**|Xi Zhang et.al.|[2603.02832](http://arxiv.org/abs/2603.02832)|null|
+|**2026-03-03**|**PathSpace: Rapid continuous map approximation for efficient SLAM using B-Splines in constrained environments**|Aduen Benjumea et.al.|[2603.02538](http://arxiv.org/abs/2603.02538)|null|
+|**2026-03-02**|**"Game, Set, Match": Double Delight Watching a Grand Slam Tennis Match**|Edsel A. Pena et.al.|[2603.02360](http://arxiv.org/abs/2603.02360)|null|
 |**2026-03-01**|**riMESA: Consensus ADMM for Real-World Collaborative SLAM**|Daniel McGann et.al.|[2603.01178](http://arxiv.org/abs/2603.01178)|null|
 |**2026-03-01**|**AI-enhanced Direct SLAM: A Principled Approach to Unsupervised Learning in Bayesian Inference**|Alexander Venus et.al.|[2603.01071](http://arxiv.org/abs/2603.01071)|null|
 |**2026-02-27**|**Motion-aware Event Suppression for Event Cameras**|Roberto Pellerito et.al.|[2602.23204](http://arxiv.org/abs/2602.23204)|null|
@@ -1260,7 +1264,7 @@ layout: default
 |**2026-02-26**|**QuadSync: Quadrifocal Tensor Synchronization via Tucker Decomposition**|Daniel Miao et.al.|[2602.22639](http://arxiv.org/abs/2602.22639)|null|
 |**2026-02-25**|**Global-Aware Edge Prioritization for Pose Graph Initialization**|Tong Wei et.al.|[2602.21963](http://arxiv.org/abs/2602.21963)|null|
 |**2026-02-25**|**Revisiting the Origin of the Star-Forming Main Sequence Based on a Volume-Limited Sample of ~25,000 Galaxies**|Yang Gao et.al.|[2602.21500](http://arxiv.org/abs/2602.21500)|null|
-|**2026-02-25**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
+|**2026-03-03**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
 |**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584](http://arxiv.org/abs/2602.20584)|null|
 |**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
@@ -1885,6 +1889,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**LOO-PIT predictive model checking**|Herman Tesso et.al.|[2603.02928](http://arxiv.org/abs/2603.02928)|null|
+|**2026-03-03**|**Cross-view geo-localization, Image retrieval, Multiscale geometric modeling, Frequency domain enhancement**|Hongying Zhang et.al.|[2603.02726](http://arxiv.org/abs/2603.02726)|null|
 |**2026-03-02**|**Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT**|Simon Ging et.al.|[2603.02026](http://arxiv.org/abs/2603.02026)|null|
 |**2026-03-02**|**Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning**|Haonan Jia et.al.|[2603.01696](http://arxiv.org/abs/2603.01696)|null|
 |**2026-03-01**|**MMCOMET: A Large-Scale Multimodal Commonsense Knowledge Graph for Contextual Reasoning**|Eileen Wang et.al.|[2603.01055](http://arxiv.org/abs/2603.01055)|null|
@@ -3427,7 +3433,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-25**|**UNet-Based Keypoint Regression for 3D Cone Localization in Autonomous Racing**|Mariia Baidachna et.al.|[2602.21904](http://arxiv.org/abs/2602.21904)|null|
-|**2026-02-25**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
+|**2026-03-03**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](http://arxiv.org/abs/2602.20630)|null|
 |**2026-02-20**|**Morphological Addressing of Identity Basins in Text-to-Image Diffusion Models**|Andrew Fraser et.al.|[2602.18533](http://arxiv.org/abs/2602.18533)|null|
 |**2026-02-17**|**SAM 3D Body: Robust Full-Body Human Mesh Recovery**|Xitong Yang et.al.|[2602.15989](http://arxiv.org/abs/2602.15989)|null|
 |**2026-02-15**|**Differential pose optimization in descriptor space -- Combining Geometric and Photometric Methods for Motion Estimation**|Andreas L. Teigen et.al.|[2602.14297](http://arxiv.org/abs/2602.14297)|null|
@@ -4366,6 +4372,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**R3GW: Relightable 3D Gaussians for Outdoor Scenes in the Wild**|Margherita Lea Corona et.al.|[2603.02801](http://arxiv.org/abs/2603.02801)|null|
+|**2026-03-03**|**Neural Electromagnetic Fields for High-Resolution Material Parameter Reconstruction**|Zhe Chen et.al.|[2603.02582](http://arxiv.org/abs/2603.02582)|null|
 |**2026-03-02**|**Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones**|Ilenia Carboni et.al.|[2603.01850](http://arxiv.org/abs/2603.01850)|null|
 |**2026-02-28**|**NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code**|Seemandhar Jain et.al.|[2603.00805](http://arxiv.org/abs/2603.00805)|null|
 |**2026-02-27**|**DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer**|Yuxuan Zhang et.al.|[2602.24096](http://arxiv.org/abs/2602.24096)|null|
