@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
+|**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|
+|**2026-03-10**|**Cutting the Cord: System Architecture for Low-Cost, GPU-Accelerated Bimanual Mobile Manipulation**|Artemis Shaw et.al.|[2603.09051](http://arxiv.org/abs/2603.09051)|null|
+|**2026-03-09**|**Overlapping Schwarz Preconditioners for Pose-Graph SLAM in Robotics**|Stephan Köhler et.al.|[2603.08975](http://arxiv.org/abs/2603.08975)|null|
 |**2026-03-09**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499](http://arxiv.org/abs/2603.08499)|null|
 |**2026-03-09**|**FoMo: A Multi-Season Dataset for Robot Navigation in Forêt Montmorency**|Matěj Boxan et.al.|[2603.08433](http://arxiv.org/abs/2603.08433)|null|
 |**2026-03-09**|**Perception-Aware Communication-Free Multi-UAV Coordination in the Wild**|Manuel Boldrer et.al.|[2603.08379](http://arxiv.org/abs/2603.08379)|null|
@@ -1266,6 +1270,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Resolved molecular gas and star-formation in massive unquenched spirals : I. UGC 8179**|Romane Cologni et.al.|[2603.09917](http://arxiv.org/abs/2603.09917)|null|
 |**2026-03-09**|**Faster Parametric Submodular Function Minimization by Exploiting Duality**|Swati Gupta et.al.|[2603.08672](http://arxiv.org/abs/2603.08672)|null|
 |**2026-03-09**|**Speed3R: Sparse Feed-forward 3D Reconstruction Models**|Weining Ren et.al.|[2603.08055](http://arxiv.org/abs/2603.08055)|null|
 |**2026-03-04**|**Three-dimensional reconstruction and segmentation of an aggregate stockpile for size and shape analyses**|Erol Tutumluer et.al.|[2603.06684](http://arxiv.org/abs/2603.06684)|null|
@@ -1906,6 +1911,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Composed Vision-Language Retrieval for Skin Cancer Case Search via Joint Alignment of Global and Local Representations**|Yuheng Wang et.al.|[2603.09108](http://arxiv.org/abs/2603.09108)|null|
 |**2026-03-09**|**$L^3$ :Scene-agnostic Visual Localization in the Wild**|Yu Zhang et.al.|[2603.07937](http://arxiv.org/abs/2603.07937)|null|
 |**2026-03-08**|**QdaVPR: A novel query-based domain-agnostic model for visual place recognition**|Shanshan Wan et.al.|[2603.07414](http://arxiv.org/abs/2603.07414)|null|
 |**2026-03-06**|**T2Nav Algebraic Topology Aware Temporal Graph Memory and Loop Detection for ZeroShot Visual Navigation**|Quang-Anh N. D. et.al.|[2603.06918](http://arxiv.org/abs/2603.06918)|null|
@@ -4405,6 +4411,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**DenoiseSplat: Feed-Forward Gaussian Splatting for Noisy 3D Scene Reconstruction**|Fuzhen Jiang et.al.|[2603.09291](http://arxiv.org/abs/2603.09291)|null|
+|**2026-03-10**|**Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists**|Jiaqi Liu et.al.|[2603.09277](http://arxiv.org/abs/2603.09277)|null|
+|**2026-03-09**|**SkipGS: Post-Densification Backward Skipping for Efficient 3DGS Training**|Jingxing Li et.al.|[2603.08997](http://arxiv.org/abs/2603.08997)|null|
 |**2026-03-09**|**Fast Low-light Enhancement and Deblurring for 3D Dark Scenes**|Feng Zhang et.al.|[2603.08133](http://arxiv.org/abs/2603.08133)|null|
 |**2026-03-07**|**Virtual Intraoperative CT (viCT): Sequential Anatomic Updates for Modeling Tissue Resection Throughout Endoscopic Sinus Surgery**|Nicole M. Gunderson et.al.|[2603.06956](http://arxiv.org/abs/2603.06956)|null|
 |**2026-03-06**|**FTSplat: Feed-forward Triangle Splatting Network**|Xiong Jinlin et.al.|[2603.05932](http://arxiv.org/abs/2603.05932)|null|

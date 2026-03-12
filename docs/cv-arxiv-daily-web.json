@@ -1251,7 +1251,11 @@
     "2603.08433": "|**2026-03-09**|**FoMo: A Multi-Season Dataset for Robot Navigation in For\u00eat Montmorency**|Mat\u011bj Boxan et.al.|[2603.08433](http://arxiv.org/abs/2603.08433)|null|\n",
     "2603.08379": "|**2026-03-09**|**Perception-Aware Communication-Free Multi-UAV Coordination in the Wild**|Manuel Boldrer et.al.|[2603.08379](http://arxiv.org/abs/2603.08379)|null|\n",
     "2603.08150": "|**2026-03-09**|**Edged USLAM: Edge-Aware Event-Based SLAM with Learning-Based Depth Priors**|\u015eebnem Sar\u0131\u00f6zkan et.al.|[2603.08150](http://arxiv.org/abs/2603.08150)|null|\n",
-    "2603.06989": "|**2026-03-07**|**MipSLAM: Alias-Free Gaussian Splatting SLAM**|Yingzhao Li et.al.|[2603.06989](http://arxiv.org/abs/2603.06989)|null|\n"
+    "2603.06989": "|**2026-03-07**|**MipSLAM: Alias-Free Gaussian Splatting SLAM**|Yingzhao Li et.al.|[2603.06989](http://arxiv.org/abs/2603.06989)|null|\n",
+    "2603.09673": "|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|\n",
+    "2603.09632": "|**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|\n",
+    "2603.09051": "|**2026-03-10**|**Cutting the Cord: System Architecture for Low-Cost, GPU-Accelerated Bimanual Mobile Manipulation**|Artemis Shaw et.al.|[2603.09051](http://arxiv.org/abs/2603.09051)|null|\n",
+    "2603.08975": "|**2026-03-09**|**Overlapping Schwarz Preconditioners for Pose-Graph SLAM in Robotics**|Stephan K\u00f6hler et.al.|[2603.08975](http://arxiv.org/abs/2603.08975)|null|\n"
   },
   "SFM": {
     "2110.07322": "|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322](http://arxiv.org/abs/2110.07322)|null|\n",
@@ -1888,7 +1892,8 @@
     "2603.05934": "|**2026-03-06**|**Extremely Metal-Poor Galaxies in DESI DR1: Connections to Galaxies in the Early Universe**|Jipeng Sui et.al.|[2603.05934](http://arxiv.org/abs/2603.05934)|null|\n",
     "2603.08672": "|**2026-03-09**|**Faster Parametric Submodular Function Minimization by Exploiting Duality**|Swati Gupta et.al.|[2603.08672](http://arxiv.org/abs/2603.08672)|null|\n",
     "2603.08055": "|**2026-03-09**|**Speed3R: Sparse Feed-forward 3D Reconstruction Models**|Weining Ren et.al.|[2603.08055](http://arxiv.org/abs/2603.08055)|null|\n",
-    "2603.06684": "|**2026-03-04**|**Three-dimensional reconstruction and segmentation of an aggregate stockpile for size and shape analyses**|Erol Tutumluer et.al.|[2603.06684](http://arxiv.org/abs/2603.06684)|null|\n"
+    "2603.06684": "|**2026-03-04**|**Three-dimensional reconstruction and segmentation of an aggregate stockpile for size and shape analyses**|Erol Tutumluer et.al.|[2603.06684](http://arxiv.org/abs/2603.06684)|null|\n",
+    "2603.09917": "|**2026-03-10**|**Resolved molecular gas and star-formation in massive unquenched spirals : I. UGC 8179**|Romane Cologni et.al.|[2603.09917](http://arxiv.org/abs/2603.09917)|null|\n"
   },
   "Visual Localization": {
     "2110.04162": "|**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162](http://arxiv.org/abs/2110.04162)|null|\n",
@@ -3439,7 +3444,8 @@
     "2603.05781": "|**2026-03-06**|**Visual Words Meet BM25: Sparse Auto-Encoder Visual Word Scoring for Image Retrieval**|Donghoon Han et.al.|[2603.05781](http://arxiv.org/abs/2603.05781)|null|\n",
     "2603.07937": "|**2026-03-09**|**$L^3$:Scene-agnostic Visual Localization in the Wild**|Yu Zhang et.al.|[2603.07937](http://arxiv.org/abs/2603.07937)|null|\n",
     "2603.07414": "|**2026-03-08**|**QdaVPR: A novel query-based domain-agnostic model for visual place recognition**|Shanshan Wan et.al.|[2603.07414](http://arxiv.org/abs/2603.07414)|null|\n",
-    "2603.06918": "|**2026-03-06**|**T2Nav Algebraic Topology Aware Temporal Graph Memory and Loop Detection for ZeroShot Visual Navigation**|Quang-Anh N. D. et.al.|[2603.06918](http://arxiv.org/abs/2603.06918)|null|\n"
+    "2603.06918": "|**2026-03-06**|**T2Nav Algebraic Topology Aware Temporal Graph Memory and Loop Detection for ZeroShot Visual Navigation**|Quang-Anh N. D. et.al.|[2603.06918](http://arxiv.org/abs/2603.06918)|null|\n",
+    "2603.09108": "|**2026-03-10**|**Composed Vision-Language Retrieval for Skin Cancer Case Search via Joint Alignment of Global and Local Representations**|Yuheng Wang et.al.|[2603.09108](http://arxiv.org/abs/2603.09108)|null|\n"
   },
   "Keypoint Detection": {
     "2110.05216": "|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216](http://arxiv.org/abs/2110.05216)|null|\n",
@@ -6177,6 +6183,9 @@
     "2603.04847": "|**2026-03-05**|**GloSplat: Joint Pose-Appearance Optimization for Faster and More Accurate 3D Reconstruction**|Tianyu Xiong et.al.|[2603.04847](http://arxiv.org/abs/2603.04847)|null|\n",
     "2603.05932": "|**2026-03-06**|**FTSplat: Feed-forward Triangle Splatting Network**|Xiong Jinlin et.al.|[2603.05932](http://arxiv.org/abs/2603.05932)|null|\n",
     "2603.08133": "|**2026-03-09**|**Fast Low-light Enhancement and Deblurring for 3D Dark Scenes**|Feng Zhang et.al.|[2603.08133](http://arxiv.org/abs/2603.08133)|null|\n",
-    "2603.06956": "|**2026-03-07**|**Virtual Intraoperative CT (viCT): Sequential Anatomic Updates for Modeling Tissue Resection Throughout Endoscopic Sinus Surgery**|Nicole M. Gunderson et.al.|[2603.06956](http://arxiv.org/abs/2603.06956)|null|\n"
+    "2603.06956": "|**2026-03-07**|**Virtual Intraoperative CT (viCT): Sequential Anatomic Updates for Modeling Tissue Resection Throughout Endoscopic Sinus Surgery**|Nicole M. Gunderson et.al.|[2603.06956](http://arxiv.org/abs/2603.06956)|null|\n",
+    "2603.09291": "|**2026-03-10**|**DenoiseSplat: Feed-Forward Gaussian Splatting for Noisy 3D Scene Reconstruction**|Fuzhen Jiang et.al.|[2603.09291](http://arxiv.org/abs/2603.09291)|null|\n",
+    "2603.09277": "|**2026-03-10**|**Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists**|Jiaqi Liu et.al.|[2603.09277](http://arxiv.org/abs/2603.09277)|null|\n",
+    "2603.08997": "|**2026-03-09**|**SkipGS: Post-Densification Backward Skipping for Efficient 3DGS Training**|Jingxing Li et.al.|[2603.08997](http://arxiv.org/abs/2603.08997)|null|\n"
   }
 }
