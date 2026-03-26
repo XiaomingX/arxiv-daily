@@ -1,4 +1,4 @@
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Digital Twin Enabled Simultaneous Learning and Modeling for UAV-assisted Secure Communications with Eavesdropping Attacks**|Jieting Yuan et.al.|[2603.22753](http://arxiv.org/abs/2603.22753)|null|
+|**2026-03-24**|**Variable-Resolution Virtual Maps for Autonomous Exploration with Unmanned Surface Vehicles (USVs)**|Ye Li et.al.|[2603.22667](http://arxiv.org/abs/2603.22667)|null|
 |**2026-03-23**|**Image-Conditioned Adaptive Parameter Tuning for Visual Odometry Frontends**|Simone Nascivera et.al.|[2603.21785](http://arxiv.org/abs/2603.21785)|null|
 |**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055](http://arxiv.org/abs/2603.21055)|null|
 |**2026-03-21**|**Implementing Robust M-Estimators with Certifiable Factor Graph Optimization**|Zhexin Xu et.al.|[2603.20932](http://arxiv.org/abs/2603.20932)|null|
@@ -1304,15 +1306,17 @@
 |**2019-09-17**|**DSVO: Direct Stereo Visual Odometry**|Jiawei Mo et.al.|[1810.03963](http://arxiv.org/abs/1810.03963)|null|
 |**2017-10-06**|**Online Photometric Calibration for Auto Exposure Video for Realtime Visual Odometry and SLAM**|Paul Bergmann et.al.|[1710.02081](http://arxiv.org/abs/1710.02081)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-23**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
+|**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324](http://arxiv.org/abs/2603.23324)|null|
+|**2026-03-24**|**GTLR-GS: Geometry-Texture Aware LiDAR-Regularized 3D Gaussian Splatting for Realistic Scene Reconstruction**|Yan Fang et.al.|[2603.23192](http://arxiv.org/abs/2603.23192)|null|
+|**2026-03-24**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
 |**2026-03-21**|**The Role and Relationship of Initialization and Densification in 3D Gaussian Splatting**|Ivan Desiatov et.al.|[2603.20714](http://arxiv.org/abs/2603.20714)|null|
-|**2026-03-21**|**GHOST: Ground-projected Hypotheses from Observed Structure-from-Motion Trajectories**|Tomasz Frelek et.al.|[2603.20583](http://arxiv.org/abs/2603.20583)|null|
+|**2026-03-24**|**GHOST: Ground-projected Hypotheses from Observed Structure-from-Motion Trajectories**|Tomasz Frelek et.al.|[2603.20583](http://arxiv.org/abs/2603.20583)|null|
 |**2026-03-20**|**Benchmarking Efficient & Effective Camera Pose Estimation Strategies for Novel View Synthesis**|Jhacson Meza et.al.|[2603.20428](http://arxiv.org/abs/2603.20428)|null|
 |**2026-03-19**|**Teleological Inference in Structural Causal Models via Intentional Interventions**|Dario Compagno et.al.|[2603.18968](http://arxiv.org/abs/2603.18968)|null|
 |**2026-03-19**|**Pixel-Accurate Epipolar Guided Matching**|Oleksii Nasypanyi et.al.|[2603.18401](http://arxiv.org/abs/2603.18401)|null|
@@ -1958,18 +1962,22 @@
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|null|
 |**2017-04-26**|**SfM-Net: Learning of Structure and Motion from Video**|Sudheendra Vijayanarasimhan et.al.|[1704.07804](http://arxiv.org/abs/1704.07804)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**ARGENT: Adaptive Hierarchical Image-Text Representations**|Chuong Huynh et.al.|[2603.23311](http://arxiv.org/abs/2603.23311)|null|
+|**2026-03-24**|**Retrieval-Guided Photovoltaic Inventory Estimation from Satellite Imagery for Distribution Grid Planning**|Muhao Guo et.al.|[2603.22856](http://arxiv.org/abs/2603.22856)|null|
+|**2026-03-24**|**SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts**|Khanh Binh Nguyen et.al.|[2603.22732](http://arxiv.org/abs/2603.22732)|null|
+|**2026-03-24**|**HyFI: Hyperbolic Feature Interpolation for Brain-Vision Alignment**|Sangmin Jo et.al.|[2603.22721](http://arxiv.org/abs/2603.22721)|null|
 |**2026-03-23**|**ADaFuSE: Adaptive Diffusion-generated Image and Text Fusion for Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2603.21886](http://arxiv.org/abs/2603.21886)|null|
 |**2026-03-21**|**SATTC: Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval**|Qunjie Huang et.al.|[2603.20738](http://arxiv.org/abs/2603.20738)|null|
 |**2026-03-21**|**A Multihead Continual Learning Framework for Fine-Grained Fashion Image Retrieval with Contrastive Learning and Exponential Moving Average Distillation**|Ling Xiao et.al.|[2603.20648](http://arxiv.org/abs/2603.20648)|null|
 |**2026-03-20**|**IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment**|Simone Magistri et.al.|[2603.19862](http://arxiv.org/abs/2603.19862)|null|
 |**2026-03-20**|**IUP-Pose: Decoupled Iterative Uncertainty Propagation for Real-time Relative Pose Regression via Implicit Dense Alignment v1**|Jun Wang et.al.|[2603.19625](http://arxiv.org/abs/2603.19625)|null|
-|**2026-03-20**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609](http://arxiv.org/abs/2603.19609)|null|
+|**2026-03-24**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609](http://arxiv.org/abs/2603.19609)|null|
 |**2026-03-18**|**MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval**|Xuri Ge et.al.|[2603.17360](http://arxiv.org/abs/2603.17360)|null|
 |**2026-03-17**|**Visual Product Search Benchmark**|Karthik Sulthanpete Govindappa et.al.|[2603.17186](http://arxiv.org/abs/2603.17186)|null|
 |**2026-03-17**|**Retrieving Counterfactuals Improves Visual In-Context Learning**|Guangzhi Xiong et.al.|[2603.16737](http://arxiv.org/abs/2603.16737)|null|
@@ -3534,12 +3542,13 @@
 |**2017-09-19**|**Beyond SIFT using Binary features for Loop Closure Detection**|Lei Han et.al.|[1709.05833](http://arxiv.org/abs/1709.05833)|null|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|null|
 |**2026-03-20**|**Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography**|Yao Zhang et.al.|[2603.19942](http://arxiv.org/abs/2603.19942)|null|
 |**2026-03-13**|**Semantic Aware Feature Extraction for Enhanced 3D Reconstruction**|Ronald Nap et.al.|[2603.13556](http://arxiv.org/abs/2603.13556)|null|
 |**2026-03-05**|**From Decoupled to Coupled: Robustness Verification for Learning-based Keypoint Detection with Joint Specifications**|Xusheng Luo et.al.|[2603.05604](http://arxiv.org/abs/2603.05604)|null|
@@ -3947,7 +3956,7 @@
 |**2009-10-08**|**Visual object categorization with new keypoint-based adaBoost features**|Taoufik Bdiri et.al.|[0910.1294](http://arxiv.org/abs/0910.1294)|null|
 |**2009-10-08**|**Adaboost with "Keypoint Presence Features" for Real-Time Vehicle Visual Detection**|Taoufik Bdiri et.al.|[0910.1273](http://arxiv.org/abs/0910.1273)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Image Matching
 
@@ -4489,12 +4498,13 @@
 |**2018-10-01**|**SConE: Siamese Constellation Embedding Descriptor for Image Matching**|Tomasz Trzcinski et.al.|[1809.11054](http://arxiv.org/abs/1809.11054)|null|
 |**2019-05-08**|**Learning Local Descriptors by Optimizing the Keypoint-Correspondence Criterion: Applications to Face Matching, Learning from Unlabeled Videos and 3D-Shape Retrieval**|Nenad Markuš et.al.|[1603.09095](http://arxiv.org/abs/1603.09095)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**UniQueR: Unified Query-based Feedforward 3D Reconstruction**|Chensheng Peng et.al.|[2603.22851](http://arxiv.org/abs/2603.22851)|null|
 |**2026-03-23**|**SatGeo-NeRF: Geometrically Regularized NeRF for Satellite Imagery**|Valentin Wagner et.al.|[2603.21931](http://arxiv.org/abs/2603.21931)|null|
 |**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|null|
 |**2026-03-22**|**FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction**|Yuqiu Liu et.al.|[2603.21356](http://arxiv.org/abs/2603.21356)|null|
@@ -6310,7 +6320,7 @@
 |**2022-02-11**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263](http://arxiv.org/abs/2202.05263)|null|
 |**2021-01-18**|**Neural Volume Rendering: NeRF And Beyond**|Frank Dellaert et.al.|[2101.05204](http://arxiv.org/abs/2101.05204)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
