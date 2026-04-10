@@ -1,4 +1,4 @@
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331](http://arxiv.org/abs/2604.07331)|null|
+|**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|null|
+|**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
+|**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720](http://arxiv.org/abs/2604.06720)|null|
+|**2026-04-08**|**The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence**|Napoleon Paxton et.al.|[2604.06621](http://arxiv.org/abs/2604.06621)|null|
 |**2026-04-06**|**Synchronous Observer Design for Landmark-Inertial SLAM with Magnetometer and Intermittent GNSS Measurements**|Arkadeep Saha et.al.|[2604.05156](http://arxiv.org/abs/2604.05156)|null|
 |**2026-04-06**|**ZeD-MAP: Bundle Adjustment Guided Zero-Shot Depth Maps for Real-Time Aerial Imaging**|Selim Ahmet Iz et.al.|[2604.04667](http://arxiv.org/abs/2604.04667)|null|
 |**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642](http://arxiv.org/abs/2604.04642)|null|
@@ -1328,7 +1333,7 @@
 |**2019-09-17**|**DSVO: Direct Stereo Visual Odometry**|Jiawei Mo et.al.|[1810.03963](http://arxiv.org/abs/1810.03963)|null|
 |**2017-10-06**|**Online Photometric Calibration for Auto Exposure Video for Realtime Visual Odometry and SLAM**|Paul Bergmann et.al.|[1710.02081](http://arxiv.org/abs/1710.02081)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## SFM
 
@@ -1990,12 +1995,15 @@
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|null|
 |**2017-04-26**|**SfM-Net: Learning of Structure and Motion from Video**|Sudheendra Vijayanarasimhan et.al.|[1704.07804](http://arxiv.org/abs/1704.07804)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Zhuohong Chen et.al.|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
+|**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
+|**2026-04-06**|**CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale**|Jichao Fang et.al.|[2604.06245](http://arxiv.org/abs/2604.06245)|null|
 |**2026-04-07**|**Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models**|Yiyang Zhang et.al.|[2604.05809](http://arxiv.org/abs/2604.05809)|null|
 |**2026-04-07**|**WRF4CIR: Weight-Regularized Fine-Tuning Network for Composed Image Retrieval**|Yizhuo Xu et.al.|[2604.05583](http://arxiv.org/abs/2604.05583)|null|
 |**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402](http://arxiv.org/abs/2604.05402)|null|
@@ -3585,7 +3593,7 @@
 |**2017-09-19**|**Beyond SIFT using Binary features for Loop Closure Detection**|Lei Han et.al.|[1709.05833](http://arxiv.org/abs/1709.05833)|null|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -4001,12 +4009,13 @@
 |**2009-10-08**|**Visual object categorization with new keypoint-based adaBoost features**|Taoufik Bdiri et.al.|[0910.1294](http://arxiv.org/abs/0910.1294)|null|
 |**2009-10-08**|**Adaboost with "Keypoint Presence Features" for Real-Time Vehicle Visual Detection**|Taoufik Bdiri et.al.|[0910.1273](http://arxiv.org/abs/0910.1273)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency**|Ke Jin et.al.|[2604.06713](http://arxiv.org/abs/2604.06713)|null|
 |**2026-04-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
 |**2026-03-30**|**AffordMatcher: Affordance Learning in 3D Scenes from Visual Signifiers**|Nghia Vu et.al.|[2603.27970](http://arxiv.org/abs/2603.27970)|null|
 |**2026-03-23**|**EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching**|Rahul Deshmukh et.al.|[2603.21463](http://arxiv.org/abs/2603.21463)|null|
@@ -4545,7 +4554,7 @@
 |**2018-10-01**|**SConE: Siamese Constellation Embedding Descriptor for Image Matching**|Tomasz Trzcinski et.al.|[1809.11054](http://arxiv.org/abs/1809.11054)|null|
 |**2019-05-08**|**Learning Local Descriptors by Optimizing the Keypoint-Correspondence Criterion: Applications to Face Matching, Learning from Unlabeled Videos and 3D-Shape Retrieval**|Nenad Markuš et.al.|[1603.09095](http://arxiv.org/abs/1603.09095)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## NeRF
 
@@ -6373,7 +6382,7 @@
 |**2022-02-11**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263](http://arxiv.org/abs/2202.05263)|null|
 |**2021-01-18**|**Neural Volume Rendering: NeRF And Beyond**|Frank Dellaert et.al.|[2101.05204](http://arxiv.org/abs/2101.05204)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

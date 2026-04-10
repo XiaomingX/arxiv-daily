@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331](http://arxiv.org/abs/2604.07331)|null|
+|**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|null|
+|**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
+|**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720](http://arxiv.org/abs/2604.06720)|null|
+|**2026-04-08**|**The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence**|Napoleon Paxton et.al.|[2604.06621](http://arxiv.org/abs/2604.06621)|null|
 |**2026-04-06**|**Synchronous Observer Design for Landmark-Inertial SLAM with Magnetometer and Intermittent GNSS Measurements**|Arkadeep Saha et.al.|[2604.05156](http://arxiv.org/abs/2604.05156)|null|
 |**2026-04-06**|**ZeD-MAP: Bundle Adjustment Guided Zero-Shot Depth Maps for Real-Time Aerial Imaging**|Selim Ahmet Iz et.al.|[2604.04667](http://arxiv.org/abs/2604.04667)|null|
 |**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642](http://arxiv.org/abs/2604.04642)|null|
@@ -1984,6 +1989,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering**|Zhuohong Chen et.al.|[2604.07146](http://arxiv.org/abs/2604.07146)|null|
+|**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
+|**2026-04-06**|**CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale**|Jichao Fang et.al.|[2604.06245](http://arxiv.org/abs/2604.06245)|null|
 |**2026-04-07**|**Stealthy and Adjustable Text-Guided Backdoor Attacks on Multimodal Pretrained Models**|Yiyang Zhang et.al.|[2604.05809](http://arxiv.org/abs/2604.05809)|null|
 |**2026-04-07**|**WRF4CIR: Weight-Regularized Fine-Tuning Network for Composed Image Retrieval**|Yizhuo Xu et.al.|[2604.05583](http://arxiv.org/abs/2604.05583)|null|
 |**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402](http://arxiv.org/abs/2604.05402)|null|
@@ -3991,6 +3999,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency**|Ke Jin et.al.|[2604.06713](http://arxiv.org/abs/2604.06713)|null|
 |**2026-04-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
 |**2026-03-30**|**AffordMatcher: Affordance Learning in 3D Scenes from Visual Signifiers**|Nghia Vu et.al.|[2603.27970](http://arxiv.org/abs/2603.27970)|null|
 |**2026-03-23**|**EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching**|Rahul Deshmukh et.al.|[2603.21463](http://arxiv.org/abs/2603.21463)|null|
