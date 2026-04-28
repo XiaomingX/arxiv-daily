@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain**|Annika Bätz et.al.|[2604.22507](http://arxiv.org/abs/2604.22507)|null|
+|**2026-04-24**|**Holo360D: A Large-Scale Real-World Dataset with Continuous Trajectories for Advancing Panoramic 3D Reconstruction and Beyond**|Jing Ou et.al.|[2604.22482](http://arxiv.org/abs/2604.22482)|null|
+|**2026-04-24**|**PoseFM: Relative Camera Pose Estimation Through Flow Matching**|Dominik Kuczkowski et.al.|[2604.22350](http://arxiv.org/abs/2604.22350)|null|
+|**2026-04-24**|**Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM**|Yunsong Wang et.al.|[2604.22339](http://arxiv.org/abs/2604.22339)|null|
+|**2026-04-23**|**Robust Camera-to-Mocap Calibration and Verification for Large-Scale Multi-Camera Data Capture**|Tianyi Liu et.al.|[2604.22118](http://arxiv.org/abs/2604.22118)|null|
+|**2026-04-23**|**SNGR: Selective Non-Gaussian Refinement for Ambiguous SLAM Factor Graphs**|Anushka Kulkarni et.al.|[2604.22065](http://arxiv.org/abs/2604.22065)|null|
 |**2026-04-23**|**SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations**|Ilir Gusija et.al.|[2604.21693](http://arxiv.org/abs/2604.21693)|null|
 |**2026-04-21**|**SL(C)AMma: Simultaneous Localisation, (Calibration) and Mapping With a Magnetometer Array**|Thomas Edridge et.al.|[2604.19946](http://arxiv.org/abs/2604.19946)|null|
 |**2026-04-21**|**Super Apriel: One Checkpoint, Many Speeds**|SLAM Labs et.al.|[2604.19877](http://arxiv.org/abs/2604.19877)|null|
@@ -1353,6 +1359,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**SS3D: End2End Self-Supervised 3D from Web Videos**|Marwane Hariat et.al.|[2604.22686](http://arxiv.org/abs/2604.22686)|null|
+|**2026-04-24**|**ArchSym: Detecting 3D-Grounded Architectural Symmetries in the Wild**|Hanyu Chen et.al.|[2604.22202](http://arxiv.org/abs/2604.22202)|null|
+|**2026-04-24**|**GenMatter: Perceiving Physical Objects with Generative Matter Models**|Eric Li et.al.|[2604.22160](http://arxiv.org/abs/2604.22160)|null|
 |**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133](http://arxiv.org/abs/2604.19133)|null|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831](http://arxiv.org/abs/2604.17831)|null|
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|null|
@@ -2021,7 +2030,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-23**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|null|
+|**2026-04-24**|**Region Matters: Efficient and Reliable Region-Aware Visual Place Recognition**|Shunpeng Chen et.al.|[2604.22390](http://arxiv.org/abs/2604.22390)|null|
+|**2026-04-24**|**Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization**|Jeonggon Kim et.al.|[2604.22310](http://arxiv.org/abs/2604.22310)|null|
+|**2026-04-24**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|null|
 |**2026-04-22**|**ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval**|Zixu Li et.al.|[2604.20358](http://arxiv.org/abs/2604.20358)|null|
 |**2026-04-22**|**UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval**|Haokun Wen et.al.|[2604.20318](http://arxiv.org/abs/2604.20318)|null|
 |**2026-04-21**|**SL(C)AMma: Simultaneous Localisation, (Calibration) and Mapping With a Magnetometer Array**|Thomas Edridge et.al.|[2604.19946](http://arxiv.org/abs/2604.19946)|null|
@@ -4071,6 +4082,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**ArchSym: Detecting 3D-Grounded Architectural Symmetries in the Wild**|Hanyu Chen et.al.|[2604.22202](http://arxiv.org/abs/2604.22202)|null|
 |**2026-04-22**|**MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation**|Yang Luo et.al.|[2604.20650](http://arxiv.org/abs/2604.20650)|null|
 |**2026-04-17**|**Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization**|Siddhant Bharadwaj et.al.|[2604.16248](http://arxiv.org/abs/2604.16248)|null|
 |**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941](http://arxiv.org/abs/2604.13941)|null|
