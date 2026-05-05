@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1367,6 +1367,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**PEARLS: Two Distinct Populations of AGN Hosts Moving Between Star Formation and Quiescence**|Gibson B. Bowling et.al.|[2605.00822](http://arxiv.org/abs/2605.00822)|null|
+|**2026-05-01**|**2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction**|Prajwal Gupta C. R. et.al.|[2605.00569](http://arxiv.org/abs/2605.00569)|null|
+|**2026-04-30**|**Alethia: A Foundational Encoder for Voice Deepfakes**|Yi Zhu et.al.|[2605.00251](http://arxiv.org/abs/2605.00251)|null|
 |**2026-04-24**|**SS3D: End2End Self-Supervised 3D from Web Videos**|Marwane Hariat et.al.|[2604.22686](http://arxiv.org/abs/2604.22686)|null|
 |**2026-04-24**|**ArchSym: Detecting 3D-Grounded Architectural Symmetries in the Wild**|Hanyu Chen et.al.|[2604.22202](http://arxiv.org/abs/2604.22202)|null|
 |**2026-04-24**|**GenMatter: Perceiving Physical Objects with Generative Matter Models**|Eric Li et.al.|[2604.22160](http://arxiv.org/abs/2604.22160)|null|
@@ -2038,6 +2041,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds**|Heejoon Moon et.al.|[2605.00562](http://arxiv.org/abs/2605.00562)|null|
+|**2026-05-01**|**MSACT: Multistage Spatial Alignment for Stable Low-Latency Fine Manipulation**|Xianbo Cai et.al.|[2605.00475](http://arxiv.org/abs/2605.00475)|null|
+|**2026-05-01**|**SIMON: Saliency-aware Integrative Multi-view Object-centric Neural Decoding**|YuSheng Lin et.al.|[2605.00401](http://arxiv.org/abs/2605.00401)|null|
 |**2026-04-29**|**AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision**|Xiaoya Cheng et.al.|[2604.26567](http://arxiv.org/abs/2604.26567)|null|
 |**2026-04-29**|**3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification**|William Grolleau et.al.|[2604.26520](http://arxiv.org/abs/2604.26520)|null|
 |**2026-04-28**|**COMPASS: COmpact Multi-channel Prior-map And Scene Signature for Floor-Plan-Based Visual Localization**|Muhammad Shaheer et.al.|[2604.25388](http://arxiv.org/abs/2604.25388)|null|
@@ -4096,6 +4102,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**TrueEBSD in MTEX: automatic image matching for correlative microscopy applications**|Vivian Tong et.al.|[2605.00703](http://arxiv.org/abs/2605.00703)|null|
 |**2026-04-28**|**GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching**|Tung-Duong Le-Duc et.al.|[2604.25390](http://arxiv.org/abs/2604.25390)|null|
 |**2026-04-26**|**Deploy DINO with Many-to-Many Association**|Haodong Jiang et.al.|[2604.23670](http://arxiv.org/abs/2604.23670)|null|
 |**2026-04-24**|**ArchSym: Detecting 3D-Grounded Architectural Symmetries in the Wild**|Hanyu Chen et.al.|[2604.22202](http://arxiv.org/abs/2604.22202)|null|
@@ -4104,7 +4111,7 @@ layout: default
 |**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941](http://arxiv.org/abs/2604.13941)|null|
 |**2026-04-13**|**Who Handles Orientation? Investigating Invariance in Feature Matching**|David Nordström et.al.|[2604.11809](http://arxiv.org/abs/2604.11809)|null|
 |**2026-04-11**|**DeepShapeMatchingKit: Accelerated Functional Map Solver and Shape Matching Pipelines Revisited**|Yizheng Xie et.al.|[2604.10377](http://arxiv.org/abs/2604.10377)|null|
-|**2026-04-14**|**Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?**|Isaac Corley et.al.|[2604.10217](http://arxiv.org/abs/2604.10217)|null|
+|**2026-05-01**|**Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?**|Isaac Corley et.al.|[2604.10217](http://arxiv.org/abs/2604.10217)|null|
 |**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574](http://arxiv.org/abs/2604.07574)|null|
 |**2026-04-08**|**Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency**|Ke Jin et.al.|[2604.06713](http://arxiv.org/abs/2604.06713)|null|
 |**2026-04-06**|**LoMa: Local Feature Matching Revisited**|David Nordström et.al.|[2604.04931](http://arxiv.org/abs/2604.04931)|null|
@@ -4649,6 +4656,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**GOR-IS: 3D Gaussian Object Removal in the Intrinsic Space**|Yonghao Zhao et.al.|[2605.00498](http://arxiv.org/abs/2605.00498)|null|
+|**2026-05-01**|**Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting**|Zhenhua Ning et.al.|[2605.00408](http://arxiv.org/abs/2605.00408)|null|
 |**2026-04-30**|**RayFormer: Modeling Inter- and Intra-Ray Similarity for NeRF-Based Video Snapshot Compressive Imaging**|Yubo Dong et.al.|[2604.27702](http://arxiv.org/abs/2604.27702)|null|
 |**2026-04-29**|**Safe Navigation using Neural Radiance Fields via Reachable Sets**|Omanshu Thapliyal et.al.|[2604.26899](http://arxiv.org/abs/2604.26899)|null|
 |**2026-04-17**|**Planar Gaussian Splatting with Bilinear Spatial Transformer for Wireless Radiance Field Reconstruction**|Jinghan Zhang et.al.|[2604.25945](http://arxiv.org/abs/2604.25945)|null|
