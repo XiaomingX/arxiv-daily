@@ -2043,7 +2043,9 @@
     "2605.10204": "|**2026-05-11**|**3DReflecNet: A Large-Scale Dataset for 3D Reconstruction of Reflective, Transparent, and Low-Texture Objects**|Zhicheng Liang et.al.|[2605.10204](http://arxiv.org/abs/2605.10204)|null|\n",
     "2605.10174": "|**2026-05-11**|**BathyFacto: Refraction-Aware Two-Media Neural Radiance Fields for Bathymetry**|Markus Brezovsky et.al.|[2605.10174](http://arxiv.org/abs/2605.10174)|null|\n",
     "2605.07143": "|**2026-05-08**|**TriP: A Triangle Puzzle Approach to Robust Translation Averaging**|Zhekai Fan et.al.|[2605.07143](http://arxiv.org/abs/2605.07143)|null|\n",
-    "2605.06889": "|**2026-05-07**|**TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation**|Francisco Chen et.al.|[2605.06889](http://arxiv.org/abs/2605.06889)|null|\n"
+    "2605.06889": "|**2026-05-07**|**TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation**|Francisco Chen et.al.|[2605.06889](http://arxiv.org/abs/2605.06889)|null|\n",
+    "2605.12437": "|**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|\n",
+    "2605.11691": "|**2026-05-12**|**Compositional Neural Operators for Multi-Dimensional Fluid Dynamics**|Hamda Hmida et.al.|[2605.11691](http://arxiv.org/abs/2605.11691)|null|\n"
   },
   "Visual Localization": {
     "2110.04162": "|**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162](http://arxiv.org/abs/2110.04162)|null|\n",
@@ -3693,7 +3695,9 @@
     "2605.09859": "|**2026-05-11**|**Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval**|Shijie Wang et.al.|[2605.09859](http://arxiv.org/abs/2605.09859)|null|\n",
     "2605.08493": "|**2026-05-08**|**CapCLIP: A Vision-Language Representation Alignment Approach for Wireless Capsule Endoscopy Analysis**|Haroon Wahab et.al.|[2605.08493](http://arxiv.org/abs/2605.08493)|null|\n",
     "2605.08389": "|**2026-05-08**|**Decoupling Endpoint and Semantic Transition Learning for Zero-Shot Composed Image Retrieval**|Mingyu Liu et.al.|[2605.08389](http://arxiv.org/abs/2605.08389)|null|\n",
-    "2605.07351": "|**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351](http://arxiv.org/abs/2605.07351)|null|\n"
+    "2605.07351": "|**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351](http://arxiv.org/abs/2605.07351)|null|\n",
+    "2605.12144": "|**2026-05-12**|**PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization**|Yanan Zhou et.al.|[2605.12144](http://arxiv.org/abs/2605.12144)|null|\n",
+    "2605.11591": "|**2026-05-12**|**Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration**|Mingtao Xian et.al.|[2605.11591](http://arxiv.org/abs/2605.11591)|null|\n"
   },
   "Keypoint Detection": {
     "2110.05216": "|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216](http://arxiv.org/abs/2110.05216)|null|\n",
@@ -4114,7 +4118,8 @@
     "2604.16540": "|**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|null|\n",
     "2604.21387": "|**2026-04-23**|**EdgeFormer: local patch-based edge detection transformer on point clouds**|Yifei Xie et.al.|[2604.21387](http://arxiv.org/abs/2604.21387)|null|\n",
     "2604.23387": "|**2026-04-25**|**Keypoint-based Dynamic Object 6-DoF Pose Tracking via Event Camera**|Zhe Wang et.al.|[2604.23387](http://arxiv.org/abs/2604.23387)|null|\n",
-    "2604.26488": "|**2026-04-29**|**Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners**|Nikita Araslanov et.al.|[2604.26488](http://arxiv.org/abs/2604.26488)|null|\n"
+    "2604.26488": "|**2026-04-29**|**Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners**|Nikita Araslanov et.al.|[2604.26488](http://arxiv.org/abs/2604.26488)|null|\n",
+    "2605.11610": "|**2026-05-12**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610](http://arxiv.org/abs/2605.11610)|null|\n"
   },
   "Image Matching": {
     "2110.00480": "|**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin K\u00f6ser et.al.|[2110.00480](http://arxiv.org/abs/2110.00480)|null|\n",
@@ -6513,11 +6518,12 @@
     "2605.02784": "|**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](http://arxiv.org/abs/2605.02784)|null|\n",
     "2605.02086": "|**2026-05-03**|**GETA-3DGS: Automatic Joint Structured Pruning and Quantization for 3D Gaussian Splatting**|Baobing Zhang et.al.|[2605.02086](http://arxiv.org/abs/2605.02086)|null|\n",
     "2605.10830": "|**2026-05-11**|**Predicting 3D structure by latent posterior sampling**|Azmi Haider et.al.|[2605.10830](http://arxiv.org/abs/2605.10830)|null|\n",
-    "2605.10360": "|**2026-05-11**|**DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions**|Minje Kim et.al.|[2605.10360](http://arxiv.org/abs/2605.10360)|null|\n",
+    "2605.10360": "|**2026-05-12**|**DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions**|Minje Kim et.al.|[2605.10360](http://arxiv.org/abs/2605.10360)|null|\n",
     "2605.09312": "|**2026-05-10**|**Low-Cost Neural Radiance Fields**|Alice Huang et.al.|[2605.09312](http://arxiv.org/abs/2605.09312)|null|\n",
     "2605.08035": "|**2026-05-08**|**PropSplat: Map-Free RF Field Reconstruction via 3D Gaussian Propagation Splatting**|William Bjorndahl et.al.|[2605.08035](http://arxiv.org/abs/2605.08035)|null|\n",
     "2605.07254": "|**2026-05-08**|**High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**|Nandhana Sunil et.al.|[2605.07254](http://arxiv.org/abs/2605.07254)|null|\n",
     "2605.07192": "|**2026-05-08**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192](http://arxiv.org/abs/2605.07192)|null|\n",
-    "2605.08213": "|**2026-05-06**|**Low-Cost Stereo Vision for Robust 3D Positioning of Thin Radiata Pine Branches in Autonomous Drone Pruning**|Yida Lin et.al.|[2605.08213](http://arxiv.org/abs/2605.08213)|null|\n"
+    "2605.08213": "|**2026-05-06**|**Low-Cost Stereo Vision for Robust 3D Positioning of Thin Radiata Pine Branches in Autonomous Drone Pruning**|Yida Lin et.al.|[2605.08213](http://arxiv.org/abs/2605.08213)|null|\n",
+    "2605.12437": "|**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|\n"
   }
 }

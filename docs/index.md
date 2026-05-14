@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1380,6 +1380,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|
+|**2026-05-12**|**Compositional Neural Operators for Multi-Dimensional Fluid Dynamics**|Hamda Hmida et.al.|[2605.11691](http://arxiv.org/abs/2605.11691)|null|
 |**2026-05-11**|**3DReflecNet: A Large-Scale Dataset for 3D Reconstruction of Reflective, Transparent, and Low-Texture Objects**|Zhicheng Liang et.al.|[2605.10204](http://arxiv.org/abs/2605.10204)|null|
 |**2026-05-11**|**BathyFacto: Refraction-Aware Two-Media Neural Radiance Fields for Bathymetry**|Markus Brezovsky et.al.|[2605.10174](http://arxiv.org/abs/2605.10174)|null|
 |**2026-05-08**|**TriP: A Triangle Puzzle Approach to Robust Translation Averaging**|Zhekai Fan et.al.|[2605.07143](http://arxiv.org/abs/2605.07143)|null|
@@ -2061,6 +2063,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization**|Yanan Zhou et.al.|[2605.12144](http://arxiv.org/abs/2605.12144)|null|
+|**2026-05-12**|**Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration**|Mingtao Xian et.al.|[2605.11591](http://arxiv.org/abs/2605.11591)|null|
 |**2026-05-11**|**BGG: Bridging the Geometric Gap between Cross-View images by Vision Foundation Model Adaptation for Geo-Localization**|Wei Wang et.al.|[2605.10345](http://arxiv.org/abs/2605.10345)|null|
 |**2026-05-11**|**Hystar: Hypernetwork-driven Style-adaptive Retrieval via Dynamic SVD Modulation**|Yujia Cai et.al.|[2605.10009](http://arxiv.org/abs/2605.10009)|null|
 |**2026-05-11**|**Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval**|Shijie Wang et.al.|[2605.09859](http://arxiv.org/abs/2605.09859)|null|
@@ -3714,6 +3718,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610](http://arxiv.org/abs/2605.11610)|null|
 |**2026-04-29**|**Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners**|Nikita Araslanov et.al.|[2604.26488](http://arxiv.org/abs/2604.26488)|null|
 |**2026-04-25**|**Keypoint-based Dynamic Object 6-DoF Pose Tracking via Event Camera**|Zhe Wang et.al.|[2604.23387](http://arxiv.org/abs/2604.23387)|null|
 |**2026-04-23**|**EdgeFormer: local patch-based edge detection transformer on point clouds**|Yifei Xie et.al.|[2604.21387](http://arxiv.org/abs/2604.21387)|null|
@@ -4695,8 +4700,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|
 |**2026-05-11**|**Predicting 3D structure by latent posterior sampling**|Azmi Haider et.al.|[2605.10830](http://arxiv.org/abs/2605.10830)|null|
-|**2026-05-11**|**DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions**|Minje Kim et.al.|[2605.10360](http://arxiv.org/abs/2605.10360)|null|
+|**2026-05-12**|**DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions**|Minje Kim et.al.|[2605.10360](http://arxiv.org/abs/2605.10360)|null|
 |**2026-05-10**|**Low-Cost Neural Radiance Fields**|Alice Huang et.al.|[2605.09312](http://arxiv.org/abs/2605.09312)|null|
 |**2026-05-06**|**Low-Cost Stereo Vision for Robust 3D Positioning of Thin Radiata Pine Branches in Autonomous Drone Pruning**|Yida Lin et.al.|[2605.08213](http://arxiv.org/abs/2605.08213)|null|
 |**2026-05-08**|**PropSplat: Map-Free RF Field Reconstruction via 3D Gaussian Propagation Splatting**|William Bjorndahl et.al.|[2605.08035](http://arxiv.org/abs/2605.08035)|null|
